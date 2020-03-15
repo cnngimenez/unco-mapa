@@ -10,8 +10,9 @@ assign_events = () ->
 export fill_select = () ->
     lst_ids = cr_map.get_classrooms()
     select = document.querySelector 'select.classroom'
-    lst_ids.forEach (idstr) =>
-        op = "<option value=\"" + idstr + "\">" + idstr + "</option>"
+    lst_ids.forEach (idobj) =>
+        op = "<option value=\"" + idobj.id + "\">"
+        op = op + idobj.name + "</option>"
         select.innerHTML = select.innerHTML.concat op
 
 load_complete = () ->

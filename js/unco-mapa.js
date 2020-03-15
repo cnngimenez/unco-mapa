@@ -60,15 +60,18 @@ export var Map = (function() {
       return draw.style.fill = 'red';
     }
 
-    // Return all classrooms id
+    // Return all classrooms id and names.
 
-    // @return {array} An array of strings.
+    // @return {array} An array of objects.
     get_classrooms() {
       var lst;
       lst = Array.from(this.maindiv.querySelectorAll('rect'));
       lst = lst.concat(Array.from(this.maindiv.querySelectorAll('path')));
       return lst.map(function(elt) {
-        return elt.getAttribute('id');
+        return {
+          id: elt.getAttribute('id'),
+          name: elt.getAttribute('inkscape:label')
+        };
       });
     }
 

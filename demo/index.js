@@ -20,9 +20,10 @@ export var fill_select = function() {
   var lst_ids, select;
   lst_ids = cr_map.get_classrooms();
   select = document.querySelector('select.classroom');
-  return lst_ids.forEach((idstr) => {
+  return lst_ids.forEach((idobj) => {
     var op;
-    op = "<option value=\"" + idstr + "\">" + idstr + "</option>";
+    op = "<option value=\"" + idobj.id + "\">";
+    op = op + idobj.name + "</option>";
     return select.innerHTML = select.innerHTML.concat(op);
   });
 };

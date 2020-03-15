@@ -47,11 +47,12 @@ export class Map
         draw = @maindiv.querySelector "#" + classroom
         draw.style.fill = 'red'
 
-    # Return all classrooms id
+    # Return all classrooms id and names.
     # 
-    # @return {array} An array of strings.
+    # @return {array} An array of objects.
     get_classrooms: () ->
         lst = Array.from @maindiv.querySelectorAll 'rect'
         lst = lst.concat Array.from @maindiv.querySelectorAll 'path'
         lst.map (elt) ->
-            elt.getAttribute 'id'
+            id: elt.getAttribute 'id'
+            name: elt.getAttribute 'inkscape:label'
