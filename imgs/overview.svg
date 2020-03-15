@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="673.68439mm"
+   height="269.74802mm"
+   viewBox="0 0 673.68439 269.74802"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="overview.svg">
+  <title
+     id="title1467">Aulas de la Universidad Nacional del Comahue</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3720"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3716" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3718" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.28"
+     inkscape:cx="160.67598"
+     inkscape:cy="334.8703"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4507"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Aulas de la Universidad Nacional del Comahue</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:date>10 de Marzo del 2020</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Gimenez Christian</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(56.557331,-79.72718)"
+     style="display:inline">
+    <image
+       sodipodi:absref="/home/poo/Documents/repos/unco-mapa/imgs/../imgs/mapa_aulas.png"
+       xlink:href="../imgs/mapa_aulas.png"
+       sodipodi:insensitive="true"
+       y="79.72718"
+       x="-56.557331"
+       id="image877"
+       preserveAspectRatio="none"
+       height="269.74802"
+       width="599.948"
+       style="display:none;fill:#000000;fill-opacity:0" />
+    <g
+       id="g4560"
+       inkscape:label="entrada_aulas_comunes"
+       style="display:inline">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect3249"
+         d="m 424.31656,161.84639 h 8.98364 l -14.96709,9.7278 H 409.884 Z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect3249-3"
+         d="m 460.5141,161.84639 h -8.98364 l 14.96709,9.76022 h 8.44911 z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="156.51836"
+         x="424.31656"
+         height="5.3280287"
+         width="36.197529"
+         id="rect3267"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g3930"
+       inkscape:label="e_fain"
+       style="display:inline">
+      <rect
+         y="183.23355"
+         x="74.056396"
+         height="118.40041"
+         width="56.47493"
+         id="rect3474"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text3478"
+         y="231.60933"
+         x="102.19912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="231.60933"
+           x="102.19912"
+           id="tspan3476"
+           sodipodi:role="line">Estacionamiento</tspan><tspan
+           id="tspan3480"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="236.46002"
+           x="102.19912"
+           sodipodi:role="line">FaIN</tspan></text>
+      <g
+         id="g4311"
+         inkscape:label="g4311">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-3"
+           d="m 73.831544,187.44053 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-2-4"
+           d="m 73.831544,201.67263 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-0"
+           d="m 73.831544,215.90474 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-4-3"
+           d="m 73.831544,230.13685 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-7-9"
+           d="m 73.831544,244.36896 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-2-2-1"
+           d="m 73.831544,258.60106 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-4-9"
+           d="m 73.831544,272.83317 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-4-0-6"
+           d="m 73.831544,287.06528 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-6-9"
+           d="m 130.3299,188.14211 -9.27713,4.05514 m 0,7.37562 9.27713,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-2-29-3"
+           d="m 130.3299,202.37423 -9.27713,4.05514 m 0,7.37562 9.27713,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-9-3"
+           d="m 130.3299,216.60632 -9.27713,4.05514 m 0,7.37562 9.27713,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-4-08-8"
+           d="m 130.3299,230.83843 -9.27713,4.05514 m 0,7.37562 9.27713,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-7-1-0"
+           d="m 130.3299,245.07054 -9.27713,4.05514 m 0,7.37562 9.27713,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-2-2-3-5"
+           d="m 130.3299,259.30264 -9.27713,4.05514 m 0,7.37562 9.27713,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-4-1-6"
+           d="m 130.3299,273.53475 -9.27713,4.05514 m 0,7.37562 9.27713,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-4-0-1-6"
+           d="m 130.3299,287.76686 -9.27713,4.05514 m 0,7.37562 9.27713,-4.05514"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      </g>
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 264.63385,171.5402 v -14.89997 h 45.23533 v 14.89997 h -14.69979 v -9.63809 h -17.57297 v 9.63809 z"
+       id="rect3520"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="entrada_aulas_faea" />
+    <g
+       id="g3989"
+       inkscape:label="aulas_faea"
+       style="display:inline">
+      <g
+         id="g3977">
+        <g
+           id="g3417">
+          <rect
+             inkscape:label="Aulas FaEA"
+             y="128.46986"
+             x="209.49332"
+             height="28.118027"
+             width="123.79324"
+             id="faea_aulas"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+            <desc
+               id="desc1465">Aulas Facultad de Economía y Administración</desc>
+          </rect>
+          <text
+             id="text3335"
+             y="142.60858"
+             x="271.50836"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan3341"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+               y="142.60858"
+               x="271.50836"
+               sodipodi:role="line">Aulas FaEA</tspan></text>
+        </g>
+      </g>
+      <rect
+         y="154.37421"
+         x="266.4379"
+         height="2"
+         width="10.557143"
+         id="rect3522"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.50797284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="154.34019"
+         x="294.43436"
+         height="2"
+         width="15.301178"
+         id="rect3522-8"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.56429297;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552"
+         d="m 268.18067,158.94878 3.76059,-1.88878 3.77841,1.88878 h -2.45085 v 4.06942 h -2.60879 v -4.06942 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-0"
+         d="m 298.74055,159.43876 3.76059,-1.88878 3.77841,1.88878 h -2.45085 v 4.06942 h -2.60879 v -4.06942 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g3944"
+       inkscape:label="fain"
+       style="display:inline">
+      <g
+         id="g3503">
+        <g
+           id="g3438">
+          <rect
+             inkscape:label="Facultad de Ingeniería"
+             y="189.02431"
+             x="134.13165"
+             height="79.752975"
+             width="37.419643"
+             id="fain"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+            <desc
+               id="desc1171">Facultad de Ingeniería</desc>
+            <title
+               id="title1169">Facultad de Ingeniería</title>
+          </rect>
+          <text
+             id="text3357"
+             y="217.44405"
+             x="152.82063"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+               y="217.44405"
+               x="152.82063"
+               id="tspan3355"
+               sodipodi:role="line">Facultad</tspan><tspan
+               id="tspan3359"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+               y="222.29474"
+               x="152.82063"
+               sodipodi:role="line">Ingeniería</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+               y="227.14543"
+               x="152.82063"
+               sodipodi:role="line"
+               id="tspan3470">(FaIN)</tspan></text>
+        </g>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect3492"
+           width="8.5516911"
+           height="5.7641487"
+           x="147.69156"
+           y="183.21292" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-2"
+         d="m 155.70364,187.08829 -3.76059,1.88878 -3.77841,-1.88878 h 2.45085 v -4.06942 h 2.60879 v 4.06942 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="189.24319"
+         x="147.49167"
+         height="2"
+         width="8.8867092"
+         id="rect3522-1"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.52584428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g3958"
+       inkscape:label="faea"
+       style="display:inline">
+      <g
+         id="g3514">
+        <g
+           id="g3430">
+          <rect
+             inkscape:label="Facultad de Economía y Administración"
+             y="189.0231"
+             x="181.74329"
+             height="79.512688"
+             width="46.237625"
+             id="faea"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+            <desc
+               id="desc1372">Facultad de Economía y Administración</desc>
+          </rect>
+          <text
+             id="text3345"
+             y="228.66936"
+             x="204.82326"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               id="tspan3347"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+               y="228.66936"
+               x="204.82326"
+               sodipodi:role="line">Facultad Economía</tspan><tspan
+               id="tspan3351"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+               y="233.52005"
+               x="204.82326"
+               sodipodi:role="line">y</tspan><tspan
+               id="tspan3353"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+               y="238.37074"
+               x="204.82326"
+               sodipodi:role="line">Administración</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+               y="243.22144"
+               x="204.82326"
+               sodipodi:role="line"
+               id="tspan3466">(FaEA)</tspan></text>
+        </g>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect3490"
+           width="8.3001862"
+           height="5.7558007"
+           x="201.2012"
+           y="183.20113" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-92"
+         d="m 209.06164,187.06814 -3.76059,1.88878 -3.77841,-1.88878 h 2.45085 v -4.06942 h 2.60879 v 4.06942 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="189.1572"
+         x="201.00166"
+         height="2"
+         width="8.6569996"
+         id="rect3522-2"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.45999277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g4020"
+       inkscape:label="aulas_fahu"
+       style="display:inline">
+      <g
+         id="g3410">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="aulas_hum"
+           width="63.944229"
+           height="33.609158"
+           x="337.73431"
+           y="202.96957"
+           inkscape:label="Aulas de la Facultad de Humanidades">
+          <desc
+             id="desc1376">Aulas Facultad de Humanidades</desc>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="369.82486"
+           y="217.44405"
+           id="text3301"><tspan
+             sodipodi:role="line"
+             x="369.82486"
+             y="217.44405"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan3303">Aulas Facultad</tspan><tspan
+             sodipodi:role="line"
+             x="369.82486"
+             y="222.29474"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan3305">Humanidades</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-6"
+         d="m 330.82465,218.13872 1.88878,3.76059 -1.88878,3.77841 v -2.45085 h -4.06942 v -2.60879 h 4.06942 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         transform="rotate(-90)"
+         y="338.00156"
+         x="-225.6312"
+         height="2"
+         width="9.1569996"
+         id="rect3522-89"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.47309017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g4010"
+       inkscape:label="biblioteca"
+       style="display:inline">
+      <g
+         id="g3403">
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000011;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           d="m 454.5555,199.57894 36.61751,0.13429 0.26885,-7.88379 42.44951,-0.001 v 57.92484 l -42.18439,0.48729 -0.21495,-7.27973 -37.07016,0.29969 z"
+           id="biblio"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:label="Biblioteca (Planta Baja)">
+          <desc
+             id="desc1152">Biblioteca planta baja.</desc>
+        </path>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="482.57709"
+           y="222.12126"
+           id="text3281"><tspan
+             sodipodi:role="line"
+             id="tspan3279"
+             x="482.57709"
+             y="222.12126"
+             style="stroke-width:0.26458332">Biblioteca</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-9"
+         d="m 489.41902,195.2173 -3.76059,1.88878 -3.77841,-1.88878 h 2.45085 v -4.06942 h 2.60879 v 4.06942 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-4"
+         d="m 481.88002,246.89827 3.76059,-1.88878 3.77841,1.88878 h -2.45085 v 4.06942 h -2.60879 v -4.06942 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="199.71323"
+         x="480.61588"
+         height="2"
+         width="10.557143"
+         id="rect3522-3"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.50797284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="240.96085"
+         x="480.93491"
+         height="2"
+         width="10.557143"
+         id="rect3522-6"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.50797284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g3999"
+       inkscape:label="aulas_comunes"
+       style="display:inline">
+      <g
+         id="g3456">
+        <g
+           id="g3277">
+          <rect
+             inkscape:label="Aulas Comunes"
+             y="95.205582"
+             x="401.63406"
+             height="61.423512"
+             width="81.324974"
+             id="aulas_comunes"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+            <desc
+               id="desc1380">Aulas Comunes</desc>
+          </rect>
+          <text
+             id="text3271"
+             y="129.51237"
+             x="427.32098"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="stroke-width:0.26458332"
+               y="129.51237"
+               x="427.32098"
+               id="tspan3269"
+               sodipodi:role="line">Aulas Comunes</tspan></text>
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-5"
+         d="m 438.79073,160.5307 3.76059,-1.88878 3.77841,1.88878 h -2.45085 v 4.06942 h -2.60879 v -4.06942 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="154.27119"
+         x="436.38174"
+         height="2"
+         width="12.357"
+         id="rect3522-80"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.54957098;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g3918"
+       inkscape:label="aulas_central"
+       style="display:inline">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3243"
+         d="M -16.733357,192.01641 H 4.35128 v -35.25935 h 20.045897 v 11.044 h 9.236918 l 2.678332,3.05988 v 6.05664 l -2.355851,2.56036 h -9.559399 v 2.7066 h 14.530085 v 6.97119 l 13.604809,-0.045 v 14.04572 H 24.60908 v 39.95403 h 13.996931 v 34.85564 h 6.254324 v 23.01687 H 10.455156 v -9.99274 H 4.2095288 V 273.56791 H -9.9826181 v -6.73649 h -6.7832229 v -6.93305 h 6.446268 v -9.8822 H 4.291569 l 0.023623,-33.28284 h -21.048549 z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#00001d;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-7"
+         d="m 0.7496699,170.6822 -1.88878,-3.76059 1.88878,-3.77841 v 2.45085 h 4.06942 v 2.60879 h -4.06942 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-54"
+         d="m 0.56068177,233.61524 -1.88877997,-3.76059 1.88877997,-3.77841 v 2.45085 H 4.6301015 v 2.60879 H 0.56068177 Z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         transform="rotate(90)"
+         y="4.597332"
+         x="163.50728"
+         height="2"
+         width="6.6570001"
+         id="rect3522-2-0"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.40337276;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         transform="rotate(90)"
+         y="4.5673308"
+         x="225.67496"
+         height="2"
+         width="6.6570001"
+         id="rect3522-2-0-8"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.40337279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g4052"
+       inkscape:label="comedor"
+       style="display:inline">
+      <g
+         id="g3449">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="comedor"
+           width="51.449383"
+           height="17.639797"
+           x="76.973618"
+           y="95.211502"
+           inkscape:label="Comedor Universitario">
+          <desc
+             id="desc1356">Comedor Universitario</desc>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="94.586662"
+           y="105.19085"
+           id="text3331"><tspan
+             sodipodi:role="line"
+             id="tspan3329"
+             x="94.586662"
+             y="105.19085"
+             style="stroke-width:0.26458332">Comedor</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-8"
+         d="m 98.560824,116.11851 3.760586,-1.88878 3.77841,1.88878 h -2.45085 v 4.06942 h -2.60879 v -4.06942 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         transform="scale(-1)"
+         y="-112.6562"
+         x="-108.15882"
+         height="2"
+         width="11.656999"
+         id="rect3522-2-0-5"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.53377801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g4096"
+       inkscape:label="calles"
+       style="display:inline">
+      <g
+         id="g3890"
+         inkscape:label="calle_buenos_aires">
+        <rect
+           style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.19819586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect3811"
+           width="49.213001"
+           height="30.201471"
+           x="24.826242"
+           y="301.76675"
+           inkscape:label="rect3811" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="49.947186"
+           y="305.76437"
+           id="text3815"><tspan
+             sodipodi:role="line"
+             id="tspan3813"
+             x="49.947186"
+             y="305.76437"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Calle</tspan><tspan
+             sodipodi:role="line"
+             x="49.947186"
+             y="310.61508"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan3817">Buenos Aires</tspan></text>
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           d="m 59.089006,315.26471 3.76059,-1.88878 3.77841,1.88878 h -2.45085 v 13.04635 h -2.60879 v -13.04635 z"
+           id="rect3552-54-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           d="m 39.154877,326.42228 -3.76059,1.88878 -3.77841,-1.88878 h 2.45085 v -13.04635 h 2.60879 v 13.04635 z"
+           id="rect3552-54-6-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+      </g>
+      <g
+         id="g3896"
+         inkscape:label="calle_interna_A">
+        <rect
+           style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect3809"
+           width="69.820213"
+           height="14.014438"
+           x="-44.860332"
+           y="301.76675" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-25.01675"
+           y="309.8291"
+           id="text3821"><tspan
+             sodipodi:role="line"
+             id="tspan3819"
+             x="-25.01675"
+             y="309.8291"
+             style="stroke-width:0.26458332">Calle Interna</tspan></text>
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           d="m 20.006096,304.75083 1.888771,3.7606 -1.888775,3.77841 4e-6,-2.45085 H 6.9597423 l -4.4e-6,-2.60879 H 20.006091 Z"
+           id="rect3552-54-6-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+      </g>
+      <g
+         id="g4074"
+         inkscape:label="calle_interna_b">
+        <rect
+           style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.50206631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect3283"
+           width="460.32349"
+           height="14"
+           x="73.939667"
+           y="301.76675" />
+        <g
+           id="g3882">
+          <g
+             id="g3875">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="289.45724"
+               y="309.7709"
+               id="text3363"><tspan
+                 sodipodi:role="line"
+                 x="289.45724"
+                 y="309.7709"
+                 style="stroke-width:0.26458332"
+                 id="tspan3365">Calle Interna</tspan></text>
+          </g>
+          <path
+             sodipodi:nodetypes="cccccccc"
+             inkscape:connector-curvature="0"
+             id="rect3552-54-6-8"
+             d="m 92.214603,308.07526 1.88878,3.76059 -1.888781,3.77841 v -2.45085 H 79.168254 v -2.60879 h 13.046349 z"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+          <path
+             sodipodi:nodetypes="cccccccc"
+             inkscape:connector-curvature="0"
+             id="rect3552-54-6-6"
+             d="m 81.057032,309.11598 -1.88878,-3.76059 1.88878,-3.77841 v 2.45085 h 13.04635 v 2.60879 h -13.04635 z"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3422"
+       style="display:inline;fill:#c8c8c8;fill-opacity:1;stroke:none"
+       transform="translate(0,-2.9206277e-6)"
+       inkscape:label="peatonal">
+      <rect
+         y="171.54689"
+         x="74.056404"
+         height="11.686666"
+         width="459.51733"
+         id="rect1777"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="437.17297"
+         y="178.84543"
+         id="text4106"><tspan
+           sodipodi:role="line"
+           id="tspan4104"
+           x="437.17297"
+           y="178.84543"
+           style="stroke-width:0.26458332">Peatonal</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="165.59709"
+         y="178.84543"
+         id="text3962"><tspan
+           sodipodi:role="line"
+           id="tspan3960"
+           x="165.59709"
+           y="178.84543"
+           style="stroke:none;stroke-width:0.26458332">Peatonal</tspan></text>
+    </g>
+    <g
+       id="g4035"
+       style="display:inline;fill:none"
+       inkscape:label="entrada_central">
+      <rect
+         y="166.24454"
+         x="26.430456"
+         height="7.6904645"
+         width="47.599228"
+         id="rect3675"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="167.6586"
+         x="26.430456"
+         height="4.8804736"
+         width="47.62595"
+         id="rect3728"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="169.08606"
+         x="26.408445"
+         height="1.873669"
+         width="47.672241"
+         id="rect3730"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g4043"
+       inkscape:label="central"
+       style="display:inline">
+      <g
+         id="g3443">
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#00001d;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           d="m -24.41618,128.30295 h 50.888534 v 4.73257 l 9.502123,-0.0945 v -5.13764 l 3.780173,-3.42671 h 8.914076 l 3.732723,3.84933 v 8.61384 l -3.055238,2.7556 v 3.14122 H 86.15164 v 23.50757 c -9.097667,0.12675 -50.52513,-0.21089 -59.721815,0 v -9.47667 H -4.1381276 -24.41618 Z"
+           id="rect3245"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="22.748501"
+           y="145.81581"
+           id="text3327"><tspan
+             sodipodi:role="line"
+             id="tspan3325"
+             x="22.748501"
+             y="145.81581"
+             style="stroke-width:0.26458332">Central</tspan></text>
+      </g>
+      <rect
+         y="163.9852"
+         x="49.480274"
+         height="2"
+         width="19.056999"
+         id="rect3522-2-1"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.68248725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-47"
+         d="m 45.884479,170.54707 3.76059,-1.88878 3.77841,1.88878 h -2.45085 v 4.06942 h -2.60879 v -4.06942 z"
+         style="opacity:1;fill:#00000c;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    </g>
+    <g
+       id="g4214"
+       style="display:inline;stroke:#646464;stroke-opacity:1"
+       inkscape:label="e_central">
+      <rect
+         y="183.23355"
+         x="25.227144"
+         height="118.40043"
+         width="48.82925"
+         id="rect3482"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108"
+         d="m 25.533069,186.73895 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-2"
+         d="m 25.533069,200.97105 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-8"
+         d="m 25.533069,215.20316 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-4"
+         d="m 25.533069,229.43527 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-7"
+         d="m 25.533069,243.66738 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-2-2"
+         d="m 25.533069,257.89948 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-8-4"
+         d="m 25.533069,272.13159 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-4-0"
+         d="m 25.533069,286.3637 9.277124,4.05514 m 0,7.37562 -9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-6"
+         d="m 73.831544,187.44053 -9.277124,4.05514 m 0,7.37562 9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-2-29"
+         d="m 73.831544,201.67265 -9.277124,4.05514 m 0,7.37562 9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-8-9"
+         d="m 73.831544,215.90474 -9.277124,4.05514 m 0,7.37562 9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-4-08"
+         d="m 73.831544,230.13685 -9.277124,4.05514 m 0,7.37562 9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-7-1"
+         d="m 73.831544,244.36896 -9.277124,4.05514 m 0,7.37562 9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-2-2-3"
+         d="m 73.831544,258.60106 -9.277124,4.05514 m 0,7.37562 9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-8-4-1"
+         d="m 73.831544,272.83317 -9.277124,4.05514 m 0,7.37562 9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-4-0-1"
+         d="m 73.831544,287.06528 -9.277124,4.05514 m 0,7.37562 9.277124,-4.05514"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text3486"
+         y="234.01476"
+         x="49.547031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="234.01476"
+           x="49.547031"
+           id="tspan3484"
+           sodipodi:role="line">Estacionamiento</tspan><tspan
+           id="tspan3488"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="238.86545"
+           x="49.547031"
+           sodipodi:role="line">Central</tspan></text>
+    </g>
+    <g
+       id="g4383"
+       inkscape:label="e_faea"
+       style="display:inline;fill:#c8c8c8;fill-opacity:1"
+       transform="translate(0,-0.49950286)">
+      <rect
+         y="183.7681"
+         x="241.44818"
+         height="118.56416"
+         width="70.59063"
+         id="rect3285"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-0"
+         d="m 241.44818,183.7681 9.27712,4.05514 m 0,7.37562 -9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-2-0"
+         d="m 241.44818,198.0002 9.27712,4.05514 m 0,7.37562 -9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-8-46"
+         d="m 241.44818,212.23231 9.27712,4.05514 m 0,7.37562 -9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-4-2"
+         d="m 241.44818,226.46442 9.27712,4.05514 m 0,7.37562 -9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-7-6"
+         d="m 241.44818,240.69653 9.27712,4.05514 m 0,7.37562 -9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-2-2-7"
+         d="m 241.44818,254.92863 9.27712,4.05514 m 0,7.37562 -9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-8-4-5"
+         d="m 241.44818,269.16074 9.27712,4.05514 m 0,7.37562 -9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-4-0-69"
+         d="m 241.44818,283.39285 9.27712,4.05514 m 0,7.37562 -9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-6-8"
+         d="m 311.93002,184.46968 -9.27712,4.05514 m 0,7.37562 9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-2-29-7"
+         d="m 311.93002,198.7018 -9.27712,4.05514 m 0,7.37562 9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-8-9-2"
+         d="m 311.93002,212.93389 -9.27712,4.05514 m 0,7.37562 9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-4-08-82"
+         d="m 311.93002,227.166 -9.27712,4.05514 m 0,7.37562 9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-7-1-9"
+         d="m 311.93002,241.39811 -9.27712,4.05514 m 0,7.37562 9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-2-2-3-9"
+         d="m 311.93002,255.63021 -9.27712,4.05514 m 0,7.37562 9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-8-4-1-60"
+         d="m 311.93002,269.86232 -9.27712,4.05514 m 0,7.37562 9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4108-4-0-1-2"
+         d="m 311.93002,284.09443 -9.27712,4.05514 m 0,7.37562 9.27712,-4.05514"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text3460"
+         y="238.55835"
+         x="276.76666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="238.55835"
+           x="276.76666"
+           id="tspan3458"
+           sodipodi:role="line">Estacionamiento</tspan><tspan
+           id="tspan3462"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="243.40904"
+           x="276.76666"
+           sodipodi:role="line">FaEA</tspan></text>
+    </g>
+    <g
+       id="g4507"
+       inkscape:label="e_biblioteca"
+       style="display:inline">
+      <rect
+         y="267.15619"
+         x="452.32385"
+         height="34.727245"
+         width="81.784424"
+         id="rect3287"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         y="281.85602"
+         x="464.61823"
+         height="2.1381531"
+         width="57.195667"
+         id="rect3289"
+         style="opacity:1;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text3293"
+         y="271.69977"
+         x="475.65598"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="271.69977"
+           x="475.65598"
+           id="tspan3291"
+           sodipodi:role="line">Estacionamiento</tspan></text>
+      <text
+         id="text3297"
+         y="289.20593"
+         x="481.63693"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="289.20593"
+           x="481.63693"
+           id="tspan3295"
+           sodipodi:role="line">Biblioteca</tspan></text>
+      <rect
+         y="297.89218"
+         x="464.61823"
+         height="2.1381531"
+         width="57.195667"
+         id="rect3289-33"
+         style="opacity:1;fill:#646464;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <g
+         id="g4440"
+         transform="translate(0,0.39999957)">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-4-1-60-7"
+           d="m 477.40297,290.91445 -4.21054,6.67821 m -7.37458,0 4.21054,-6.67821"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-4-1-60-7-6"
+           d="m 491.64194,291.04632 -4.21054,6.67821 m -7.37458,0 4.21054,-6.67821"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-4-1-60-7-1"
+           d="m 505.88093,290.78083 -4.21054,6.67821 m -7.37458,0 4.21054,-6.67821"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-4-1-60-7-3"
+           d="m 520.11985,290.77905 -4.21054,6.67821 m -7.37458,0 4.21054,-6.67821"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      </g>
+      <g
+         id="g4440-4"
+         transform="translate(0,-15.537)">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-4-1-60-7-9"
+           d="m 477.40297,290.91445 -4.21054,6.67821 m -7.37458,0 4.21054,-6.67821"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-4-1-60-7-6-1"
+           d="m 491.64194,291.04632 -4.21054,6.67821 m -7.37458,0 4.21054,-6.67821"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-4-1-60-7-1-0"
+           d="m 505.88093,290.78083 -4.21054,6.67821 m -7.37458,0 4.21054,-6.67821"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="rect4108-8-4-1-60-7-3-7"
+           d="m 520.11985,290.77905 -4.21054,6.67821 m -7.37458,0 4.21054,-6.67821"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      </g>
+    </g>
+  </g>
+</svg>

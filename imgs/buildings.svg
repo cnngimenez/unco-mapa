@@ -1,0 +1,2228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="673.68439mm"
+   height="269.74802mm"
+   viewBox="0 0 673.68439 269.74802"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="buildings.svg">
+  <title
+     id="title1467">Aulas de la Universidad Nacional del Comahue</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.28637825"
+     inkscape:cx="1216.2227"
+     inkscape:cy="1683.9898"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Aulas de la Universidad Nacional del Comahue</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:date>10 de Marzo del 2020</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Gimenez Christian</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1"
+     transform="translate(56.557331,-79.72718)"
+     inkscape:groupmode="layer">
+    <image
+       sodipodi:absref="/home/poo/Documents/repos/unco-mapa/imgs/../imgs/mapa_aulas.png"
+       xlink:href="../imgs/mapa_aulas.png"
+       style="display:inline;fill:#000000;fill-opacity:0"
+       width="599.948"
+       height="269.74802"
+       preserveAspectRatio="none"
+       id="image877"
+       x="-56.557331"
+       y="79.72718" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aulas_hum"
+       width="63.944229"
+       height="33.609158"
+       x="337.73431"
+       y="202.96957"
+       inkscape:label="Aulas de la Facultad de Humanidades">
+      <desc
+         id="desc1376">Aulas Facultad de Humanidades</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="faea_aulas"
+       width="123.79324"
+       height="28.118027"
+       x="209.49332"
+       y="128.46986"
+       inkscape:label="Aulas FaEA">
+      <desc
+         id="desc1465">Aulas Facultad de Economía y Administración</desc>
+    </rect>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000011;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 454.5555,199.57894 36.61751,0.13429 0.26885,-7.88379 42.44951,-0.001 v 57.92484 l -42.18439,0.48729 -0.21495,-7.27973 -37.07016,0.29969 z"
+       id="biblio"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="Biblioteca (Planta Baja)">
+      <desc
+         id="desc1152">Biblioteca planta baja.</desc>
+    </path>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula41"
+       width="18.757084"
+       height="14.126856"
+       x="209.49332"
+       y="128.46986"
+       inkscape:label="Aula 41-FaEA">
+      <desc
+         id="desc944">Aula 41</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula40"
+       width="18.757084"
+       height="14.126856"
+       x="209.49332"
+       y="142.59673"
+       inkscape:label="Aula 40-FaEA">
+      <desc
+         id="desc944-2">Aula 40</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula46"
+       width="15.024557"
+       height="9.6383896"
+       x="228.39211"
+       y="147.17969"
+       inkscape:label="Aula 46-FaEA">
+      <desc
+         id="desc976">Aula 46</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula42"
+       width="29.340395"
+       height="14.174112"
+       x="236.99106"
+       y="128.51711"
+       inkscape:label="Aula 42-FaEA">
+      <desc
+         id="desc980">Aula 42</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.49089015;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula43"
+       width="28.262823"
+       height="14.183222"
+       x="266.3269"
+       y="128.51254"
+       inkscape:label="Aula 43-FaEA">
+      <desc
+         id="desc980-1">Aula 43</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula45"
+       width="23.765251"
+       height="14.410342"
+       x="309.51526"
+       y="128.46986"
+       inkscape:label="Aula 45-FaEA">
+      <desc
+         id="desc1021">Aula 45</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.48788962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula44"
+       width="23.777363"
+       height="13.713747"
+       x="309.50919"
+       y="142.87415"
+       inkscape:label="Aula 44-FaEA">
+      <desc
+         id="desc1021-7">Aula 44</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula7"
+       width="17.372513"
+       height="13.497115"
+       x="337.62823"
+       y="202.98793"
+       inkscape:label="Aula 7 en FaHu">
+      <desc
+         id="desc1276">Aula 7 en Fahu</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.47906455;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula6"
+       width="15.923466"
+       height="13.51805"
+       x="354.99026"
+       y="202.97746"
+       inkscape:label="Aula 6 en FaHu">
+      <desc
+         id="desc1276-3">Aula 6</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.47711396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula5"
+       width="15.791781"
+       height="13.520001"
+       x="370.90228"
+       y="202.98695"
+       inkscape:label="Aula 5 en FaHu">
+      <desc
+         id="desc1276-1">Aula 5</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.46523225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula4"
+       width="15.001855"
+       height="13.531883"
+       x="386.67667"
+       y="202.96957"
+       inkscape:label="Aula 4 en FaHu">
+      <desc
+         id="desc1276-6">Aula 4</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.44472629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula1b"
+       width="17.372513"
+       height="10.677917"
+       x="337.69507"
+       y="225.6519"
+       inkscape:label="Aula 1 en FaHu">
+      <desc
+         id="desc1276-2">Aula 1</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.42870271;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula2"
+       width="16.119005"
+       height="10.69394"
+       x="355.05954"
+       y="225.64389"
+       inkscape:label="Aula 2 en FaHu">
+      <desc
+         id="desc1276-2-6">Aula 2</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.41913238;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula3"
+       width="15.393585"
+       height="10.70351"
+       x="371.16577"
+       y="225.64711"
+       inkscape:label="Aula 3 en FaHu">
+      <desc
+         id="desc1276-2-5">Aula 3</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="comedor"
+       width="51.449383"
+       height="17.639797"
+       x="76.973618"
+       y="95.211502"
+       inkscape:label="Comedor Universitario">
+      <desc
+         id="desc1356">Comedor Universitario</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.6180805;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="salon_azul"
+       width="14.070807"
+       height="58.107597"
+       x="602.74719"
+       y="194.00572"
+       inkscape:label="Salón Azul">
+      <desc
+         id="desc1154">Salón azúl</desc>
+    </rect>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="541.92645"
+       y="221.05609"
+       id="text1398"><tspan
+         sodipodi:role="line"
+         id="tspan1396"
+         x="541.92645"
+         y="221.05609"
+         style="stroke-width:0.26458332">Consejo</tspan><tspan
+         sodipodi:role="line"
+         x="541.92645"
+         y="225.90678"
+         style="stroke-width:0.26458332"
+         id="tspan1455">Superior</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="604.08655"
+       y="220.48276"
+       id="text1402"><tspan
+         sodipodi:role="line"
+         id="tspan1400"
+         x="604.08655"
+         y="220.48276"
+         style="stroke-width:0.26458332">Salón</tspan><tspan
+         sodipodi:role="line"
+         x="604.08655"
+         y="225.33345"
+         style="stroke-width:0.26458332"
+         id="tspan1404">Azúl</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="biblio_posgrado"
+       width="11.720915"
+       height="11.430117"
+       x="591.24744"
+       y="194.1895"
+       inkscape:label="Biblioteca de Posgrado">
+      <desc
+         id="desc1162">Biblioteca de Posgrado.</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="biblio_aulainfo_b"
+       width="16.878962"
+       height="11.469261"
+       x="574.36847"
+       y="194.18948"
+       inkscape:label="Aula Informática-Biblioteca">
+      <desc
+         id="desc1156">Aula Informática de Biblioteca (primer piso).</desc>
+    </rect>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22636773"
+       x="570.01001"
+       y="-82.35347"
+       id="text1425"
+       transform="matrix(0.93423957,0.4599969,-0.53136793,0.80875658,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1423"
+         x="570.01001"
+         y="-82.35347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22636773">Aula</tspan><tspan
+         sodipodi:role="line"
+         x="570.01001"
+         y="-79.335236"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22636773"
+         id="tspan1459">Informática</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="consejo_superior"
+       width="29.84947"
+       height="43.570885"
+       x="537.48212"
+       y="201.93898"
+       inkscape:label="Consejo Superior">
+      <desc
+         id="desc1158">Consejo Superior</desc>
+    </rect>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 537.48212,201.93898 36.61752,0.13429 0.26884,-7.88379 42.44952,-0.001 v 57.92484 l -42.1844,0.48729 -0.21495,-7.27973 -37.07016,0.29969 z"
+       id="biblio_1piso"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="Biblioteca (Primer Piso)">
+      <desc
+         id="desc1150">Biblioteca primer piso</desc>
+    </path>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="570.17706"
+       y="259.10788"
+       id="text1435"><tspan
+         sodipodi:role="line"
+         id="tspan1433"
+         x="570.17706"
+         y="259.10788"
+         style="stroke-width:0.26458332">Biblioteca</tspan><tspan
+         sodipodi:role="line"
+         x="570.17706"
+         y="263.95859"
+         style="stroke-width:0.26458332"
+         id="tspan1437">1° Piso</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="hemeroteca"
+       width="27.950577"
+       height="9.910738"
+       x="574.79663"
+       y="242.20258"
+       inkscape:label="Hemeroteca">
+      <desc
+         id="desc1160">Hemeroteca</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fain"
+       width="37.419643"
+       height="79.752975"
+       x="134.13165"
+       y="189.02431"
+       inkscape:label="Facultad de Ingeniería">
+      <desc
+         id="desc1171">Facultad de Ingeniería</desc>
+      <title
+         id="title1169">Facultad de Ingeniería</title>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.49089015;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="bar_faea"
+       width="9.5530043"
+       height="9.2695312"
+       x="277.23834"
+       y="147.15887"
+       inkscape:label="Bar-FaEA">
+      <desc
+         id="desc980-1-6">Bar en aulas de FaEA.</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fotocopias_faea"
+       width="14.2686"
+       height="9.4494047"
+       x="252.15474"
+       y="147.16344"
+       inkscape:label="Fotocopiadora-FaEA">
+      <desc
+         id="desc1195">Fotocopiadora en Aulas FaEA.</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="cefea"
+       width="14.74372"
+       height="8.9606895"
+       x="294.77155"
+       y="128.46986"
+       inkscape:label="Centro de Estudiantes de la FaEA">
+      <desc
+         id="desc1199">Centro de Estudiantes de la Facultad de Economía y Administración.</desc>
+    </rect>
+    <g
+       id="grp_central"
+       inkscape:label="Gpr. Central"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3245"
+         d="m -163.63783,52.257586 h 91.635059 v 8.521946 l 17.110488,-0.170165 v -9.251358 l 6.806965,-6.170482 h 16.051592 l 6.72152,6.931495 v 15.510956 l -5.501572,4.96201 v 5.656399 h 66.275596 v 42.330123 c -16.382185,0.22823 -90.980685,-0.37976 -107.54117,0 v -17.06466 h -55.043758 -36.51472 z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#00001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         inkscape:label="Layout Central" />
+      <rect
+         y="116.51067"
+         x="-30.572369"
+         height="3.6014032"
+         width="34.315971"
+         id="rect3522-2-1"
+         style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:1.22895586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3552-47"
+         d="m -37.047325,128.32664 6.771701,-3.40114 6.80379,3.40114 h -4.413251 v 7.32781 h -4.697652 v -7.32781 z"
+         style="opacity:1;fill:#00000c;fill-opacity:1;stroke:#000000;stroke-width:0.36014032;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="aula_magna"
+         d="m -25.312206,67.629978 -6.721524,5.95893 -16.051592,0.03084 -6.824595,-5.98977 0.01763,-16.271969 6.806965,-6.170482 h 16.051592 l 6.72152,6.931495 z"
+         inkscape:transform-center-x="-3.7701284e-06"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         inkscape:label="Aula Magna">
+        <desc
+           id="desc5868">Aula Magna</desc>
+      </path>
+      <rect
+         inkscape:label="Orientación e Ingreso"
+         y="103.51385"
+         x="-72.079353"
+         height="17.08518"
+         width="41.148808"
+         id="ingreso"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1360">Orientación e Ingreso</desc>
+      </rect>
+      <rect
+         inkscape:label="Departamento de Becas"
+         y="78.24704"
+         x="-30.930534"
+         height="16.603901"
+         width="44.758358"
+         id="dpto_becas"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1364">Departamento Becas</desc>
+      </rect>
+      <text
+         id="text5641"
+         y="57.148911"
+         x="-39.975517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.1738143px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4764356"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.1738143px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.4764356"
+           y="57.148911"
+           x="-39.975517"
+           id="tspan5639"
+           sodipodi:role="line">Aula</tspan><tspan
+           id="tspan5643"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.1738143px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.4764356"
+           y="64.86618"
+           x="-39.975517"
+           sodipodi:role="line">Magna</tspan></text>
+      <text
+         id="text5647"
+         y="84.863853"
+         x="-8.754837"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.1738143px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4764356"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.1738143px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.4764356"
+           y="84.863853"
+           x="-6.902391"
+           id="tspan5645"
+           sodipodi:role="line">Dpto. </tspan><tspan
+           id="tspan5649"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.1738143px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.4764356"
+           y="92.581123"
+           x="-8.754837"
+           sodipodi:role="line">Becas</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-66.273499"
+         y="143.18506"
+         id="text5994"><tspan
+           sodipodi:role="line"
+           id="tspan5992"
+           x="-64.474037"
+           y="143.18506"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Central </tspan></text>
+      <text
+         id="text5653"
+         y="113.51849"
+         x="-51.667732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.1738143px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4764356"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.1738143px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.4764356"
+           y="113.51849"
+           x="-51.667732"
+           id="tspan5651"
+           sodipodi:role="line">Ingreso</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="342.77451"
+       y="206.22221"
+       id="text5800"><tspan
+         sodipodi:role="line"
+         id="tspan5798"
+         x="342.77451"
+         y="206.22221"
+         style="stroke-width:0.26458332">Aula</tspan><tspan
+         sodipodi:role="line"
+         x="342.77451"
+         y="211.07291"
+         style="stroke-width:0.26458332"
+         id="tspan5802">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="358.46051"
+       y="206.03323"
+       id="text5806"><tspan
+         sodipodi:role="line"
+         id="tspan5804"
+         x="358.46051"
+         y="206.03323"
+         style="stroke-width:0.26458332">Aula</tspan><tspan
+         sodipodi:role="line"
+         x="358.46051"
+         y="210.88393"
+         style="stroke-width:0.26458332"
+         id="tspan5808">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="370.90228"
+       y="202.98695"
+       id="text5812"><tspan
+         sodipodi:role="line"
+         id="tspan5810"
+         x="370.90228"
+         y="202.98695"
+         style="stroke-width:0.26458332">Aula</tspan><tspan
+         sodipodi:role="line"
+         x="370.90228"
+         y="207.83765"
+         style="stroke-width:0.26458332"
+         id="tspan5814">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="390.96649"
+       y="208.86806"
+       id="text5818"><tspan
+         sodipodi:role="line"
+         id="tspan5816"
+         x="390.96649"
+         y="208.86806"
+         style="stroke-width:0.26458332">Aula</tspan><tspan
+         sodipodi:role="line"
+         x="390.96649"
+         y="213.71875"
+         style="stroke-width:0.26458332"
+         id="tspan5820">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="377.92633"
+       y="228.14484"
+       id="text5824"><tspan
+         sodipodi:role="line"
+         id="tspan5822"
+         x="377.92633"
+         y="228.14484"
+         style="stroke-width:0.26458332">Aula</tspan><tspan
+         sodipodi:role="line"
+         x="377.92633"
+         y="232.99553"
+         style="stroke-width:0.26458332"
+         id="tspan5826">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="360.16141"
+       y="227.19989"
+       id="text5830"><tspan
+         sodipodi:role="line"
+         id="tspan5828"
+         x="360.16141"
+         y="227.19989"
+         style="stroke-width:0.26458332">Aula</tspan><tspan
+         sodipodi:role="line"
+         x="360.16141"
+         y="232.05058"
+         style="stroke-width:0.26458332"
+         id="tspan5832">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="345.79834"
+       y="228.33382"
+       id="text5836"><tspan
+         sodipodi:role="line"
+         id="tspan5834"
+         x="345.79834"
+         y="228.33382"
+         style="stroke-width:0.26458332">Aula</tspan><tspan
+         sodipodi:role="line"
+         x="345.79834"
+         y="233.18451"
+         style="stroke-width:0.26458332"
+         id="tspan5838">1</tspan></text>
+    <g
+       id="g6131"
+       inkscape:label="Grp. Aulas Central"
+       style="display:none">
+      <g
+         inkscape:label="Grp. Aulas Central (planta baja)"
+         id="gpr_aulas_central_1">
+        <path
+           inkscape:label="Layout central (primer piso)"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#00001d;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           d="m 46.055918,309.84213 h -60.41624 V 208.80945 H -71.80014 v 31.64565 h -26.467605 l -7.674535,8.76782 v 17.35479 l 6.750493,7.3365 h 27.391647 v 7.75553 h -41.63473 v 19.97535 l -38.98342,-0.12894 v 40.24682 h 80.01096 v 114.48488 h -40.10702 v 99.87589 h -17.92123 v 65.95288 h 98.585119 v -28.63334 h 17.896315 V 543.52104 H 26.712248 V 524.2182 h 19.43675 V 504.35213 H 27.677763 v -28.31661 h -41.866988 l -0.06769,-95.36915 h 60.312833 z"
+           id="rect3243"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
+        <path
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.57308304;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           d="M 0.25601763,248.71076 -5.1561213,237.93511 0.25601763,227.1084 v 7.0227 H 11.916596 v 7.47526 H 0.25601763 Z"
+           id="rect3552-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+        <path
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.57308304;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           d="M -0.28551183,429.04005 -5.6976507,418.2644 -0.28551183,407.43768 v 7.02271 H 11.375065 v 7.47526 H -0.28551183 Z"
+           id="rect3552-54"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+        <rect
+           style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:1.1558305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect3522-2-0"
+           width="19.075069"
+           height="5.7308302"
+           x="228.15163"
+           y="15.065363"
+           transform="rotate(90)" />
+        <rect
+           style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:1.1558305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect3522-2-0-8"
+           width="19.075069"
+           height="5.7308302"
+           x="406.28784"
+           y="14.979397"
+           transform="rotate(90)" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="fahu_aula13-1"
+           width="41.738174"
+           height="19.975357"
+           x="-113.43487"
+           y="281.66974"
+           inkscape:label="Aula 13.1-FaHu">
+          <desc
+             id="desc1168">Aula 13.1</desc>
+        </rect>
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           inkscape:transform-center-x="-0.011745576"
+           inkscape:transform-center-y="0.30994913"
+           d="m -64.516568,266.5776 -7.63189,7.14273 -27.04333,0.19376 -6.750492,-7.33649 v -17.35478 l 7.674534,-8.76782 26.4676,2e-5 7.283578,8.7678 z"
+           id="fahu_pagoda"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc">
+          <desc
+             id="desc5865">Aula 13 (Pagoda)</desc>
+        </path>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="fahu_aula14"
+           width="40.206501"
+           height="26.995794"
+           x="-72.411278"
+           y="351.99097"
+           inkscape:label="Aula 14-FaHu">
+          <desc
+             id="desc1176">Aula 14</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="fahu_aula15"
+           width="40.206505"
+           height="26.995794"
+           x="-72.411278"
+           y="378.98679"
+           inkscape:label="Aula 15-FaHu">
+          <desc
+             id="desc1176-2">Aula 15</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="fahu_aula16"
+           width="40.139988"
+           height="29.609713"
+           x="-72.378021"
+           y="406.01584"
+           inkscape:label="Aula 16-FaHu">
+          <desc
+             id="desc1176-7">Aula 16</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="fahu_aula13-2"
+           width="40.206505"
+           height="26.995794"
+           x="-14.256914"
+           y="353.67056"
+           inkscape:label="Aula 13.2-FaHu">
+          <desc
+             id="desc1176-9">Aula 13.2</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="fahu_aula19"
+           width="39.980625"
+           height="32.084194"
+           x="-112.51435"
+           y="456.24783"
+           inkscape:label="Aula 19-FaHu">
+          <desc
+             id="desc1176-28">Aula 19</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="fahu_aula21"
+           width="40.206505"
+           height="26.995794"
+           x="-112.74022"
+           y="488.33206"
+           inkscape:label="Aula 21-FaHu">
+          <desc
+             id="desc1176-73">Aula 21</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="fahu_aula24"
+           width="40.206505"
+           height="26.995794"
+           x="-112.74022"
+           y="515.32788"
+           inkscape:label="Aula 24-FaHu">
+          <desc
+             id="desc1176-1">Aula 24</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="fahu_aula25"
+           width="59.585461"
+           height="18.161764"
+           x="-130.55046"
+           y="573.07324"
+           inkscape:label="Aula 25-FaHu">
+          <desc
+             id="desc1176-94">Aula 25</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="fahu_aula26"
+           width="59.571468"
+           height="19.087105"
+           x="-130.29535"
+           y="602.89734"
+           inkscape:label="Aula 26-FaHu">
+          <desc
+             id="desc1176-94-8">Aula 26</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="barcito"
+           width="42.225327"
+           height="29.703999"
+           x="-14.360321"
+           y="309.84213"
+           inkscape:label="Barcito">
+          <desc
+             id="desc1368">Barcito</desc>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="-85.189888"
+           y="258.7438"
+           id="text5696"><tspan
+             sodipodi:role="line"
+             id="tspan5694"
+             x="-85.189888"
+             y="258.7438"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Pagoda</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="-92.316872"
+           y="290.142"
+           id="text5700"><tspan
+             sodipodi:role="line"
+             id="tspan5698"
+             x="-92.316872"
+             y="290.142"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Aula</tspan><tspan
+             sodipodi:role="line"
+             x="-92.316872"
+             y="297.63852"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104"
+             id="tspan5702">13.1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="6.7259865"
+           y="326.9343"
+           id="text5706"><tspan
+             sodipodi:role="line"
+             id="tspan5704"
+             x="6.7259865"
+             y="326.9343"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Barcito</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="6.0322876"
+           y="365.65305"
+           id="text5710"><tspan
+             sodipodi:role="line"
+             id="tspan5708"
+             x="6.0322876"
+             y="365.65305"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Aula</tspan><tspan
+             sodipodi:role="line"
+             x="6.0322876"
+             y="373.14957"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104"
+             id="tspan5712">13.2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="-52.05912"
+           y="364.01883"
+           id="text5716"><tspan
+             sodipodi:role="line"
+             id="tspan5714"
+             x="-52.05912"
+             y="364.01883"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Aula</tspan><tspan
+             sodipodi:role="line"
+             x="-52.05912"
+             y="371.51535"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104"
+             id="tspan5718">14</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="-52.05912"
+           y="390.98538"
+           id="text5722"><tspan
+             sodipodi:role="line"
+             id="tspan5720"
+             x="-52.05912"
+             y="390.98538"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Aula</tspan><tspan
+             sodipodi:role="line"
+             x="-52.05912"
+             y="398.4819"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104"
+             id="tspan5724">15</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="-52.05912"
+           y="419.32138"
+           id="text5728"><tspan
+             sodipodi:role="line"
+             id="tspan5726"
+             x="-52.05912"
+             y="419.32138"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Aula</tspan><tspan
+             sodipodi:role="line"
+             x="-52.05912"
+             y="426.8179"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104"
+             id="tspan5730">16</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="-92.275131"
+           y="470.79062"
+           id="text5740"><tspan
+             sodipodi:role="line"
+             id="tspan5738"
+             x="-92.275131"
+             y="470.79062"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Aula</tspan><tspan
+             sodipodi:role="line"
+             x="-92.275131"
+             y="478.28714"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104"
+             id="tspan5742">19</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="-92.275131"
+           y="500.35992"
+           id="text5746"><tspan
+             sodipodi:role="line"
+             id="tspan5744"
+             x="-92.275131"
+             y="500.35992"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Aula</tspan><tspan
+             sodipodi:role="line"
+             x="-92.275131"
+             y="507.85645"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104"
+             id="tspan5748">21</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="-92.275131"
+           y="527.35577"
+           id="text5752"><tspan
+             sodipodi:role="line"
+             id="tspan5750"
+             x="-92.275131"
+             y="527.35577"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Aula</tspan><tspan
+             sodipodi:role="line"
+             x="-92.275131"
+             y="534.85229"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104"
+             id="tspan5754">24</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="-100.55128"
+           y="584.40308"
+           id="text5758"><tspan
+             sodipodi:role="line"
+             id="tspan5756"
+             x="-100.55128"
+             y="584.40308"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Aula 25</tspan></text>
+        <text
+           id="text5979"
+           y="635.9007"
+           x="-52.751038"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             y="635.9007"
+             x="-52.751038"
+             id="tspan5977"
+             sodipodi:role="line">Aulas Central (planta baja)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="-100.33246"
+           y="614.68982"
+           id="text5762"><tspan
+             sodipodi:role="line"
+             id="tspan5760"
+             x="-100.33246"
+             y="614.68982"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Aula 26</tspan></text>
+      </g>
+      <g
+         inkscape:label="Grp. Aulas Central (subsuelo)"
+         id="grp_aulas_central_s">
+        <path
+           inkscape:label="Layout Central (subsuelo)"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="rect3243-8"
+           d="M -198.53166,309.84213 H -258.9479 V 208.80945 h -57.43982 v 31.64566 h -26.4676 l -7.67454,8.76781 v 17.35479 l 6.75049,7.33651 h 27.39165 v 7.75553 h -41.63473 v 19.97534 l -38.98342,-0.12894 v 40.24683 h 80.01096 v 114.48488 h -40.10702 v 99.87588 h -17.92123 v 65.9529 h 98.58512 V 593.4433 h 17.89631 v -49.92225 h 40.6664 v -19.30283 h 19.43675 v -19.86608 h -18.47123 v -28.31661 h -41.86699 l -0.0677,-95.36915 h 60.31283 z"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#00001d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="fahu_aula1"
+           width="41.866989"
+           height="28.316622"
+           x="-258.77679"
+           y="476.03552"
+           inkscape:label="Aula 1/Pabellón 1-FaHu">
+          <desc
+             id="desc1176-3">Aula 1 (Pabellón 1)</desc>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75814104"
+           x="-237.82172"
+           y="488.74283"
+           id="text5734"><tspan
+             sodipodi:role="line"
+             id="tspan5732"
+             x="-237.82172"
+             y="488.74283"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104">Pabellón</tspan><tspan
+             sodipodi:role="line"
+             x="-237.82172"
+             y="496.23935"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.75814104"
+             id="tspan5736">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-297.33862"
+           y="637.92731"
+           id="text5983"><tspan
+             sodipodi:role="line"
+             id="tspan5981"
+             x="-297.33862"
+             y="637.92731"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Aula Central (subsuelo)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g6650"
+       inkscape:label="Grp. FaEA"
+       style="display:inline">
+      <g
+         inkscape:label="Grp. FaEA (subsuelo)"
+         id="g6533">
+        <g
+           transform="translate(205.56656,-0.4619751)"
+           id="g6529" />
+        <path
+           inkscape:label="Layout FaEA (subsuelo)"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           d="m 171.20498,348.05756 h 67.64153 v -22.96809 h 20.8542 v 22.96809 h 46.04893 v -22.96809 l 37.94255,0.33777 V 777.72172 H 171.20498 Z"
+           id="path6509"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccc">
+          <desc
+             id="desc6507">Facultad de Economía y Administración</desc>
+        </path>
+        <rect
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6521"
+           width="172.27299"
+           height="37.778961"
+           x="170.93967"
+           y="622.12482" />
+        <text
+           id="text5794"
+           y="638.66913"
+           x="191.50829"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98701525"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.98701525"
+             y="638.66913"
+             x="191.50829"
+             id="tspan5792"
+             sodipodi:role="line">Aula</tspan><tspan
+             id="tspan5796"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.98701525"
+             y="649.69342"
+             x="191.50829"
+             sodipodi:role="line">5</tspan></text>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.90098977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="faea_aula5"
+           width="40.405155"
+           height="37.498314"
+           x="170.93967"
+           y="622.12482"
+           inkscape:label="Aula 5 en FaEA">
+          <desc
+             id="desc938">Aula 5 en FaEA</desc>
+        </rect>
+        <text
+           id="text6555"
+           y="795.71631"
+           x="257.55838"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             y="795.71631"
+             x="257.55838"
+             id="tspan6553"
+             sodipodi:role="line">FaEA (subsuelo)</tspan></text>
+      </g>
+      <g
+         transform="translate(205.56657,-0.46194735)"
+         inkscape:label="Grp. FaEA (planta baja)"
+         id="g6400">
+        <rect
+           y="622.58679"
+           x="196.80872"
+           height="37.778961"
+           width="172.27299"
+           id="rect6404"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+        <g
+           id="g6505">
+          <rect
+             y="622.58679"
+             x="196.80872"
+             height="20.666304"
+             width="66.858299"
+             id="rect6168-7"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="622.58679"
+             x="236.27991"
+             height="20.60866"
+             width="13.510635"
+             id="rect6170-8"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000009;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="622.58679"
+             x="209.74298"
+             height="20.608673"
+             width="13.510635"
+             id="rect6170-2-9"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000009;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        </g>
+        <path
+           inkscape:label="Layout FaEA"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           d="m 196.61208,348.51951 h 67.64153 v -22.96809 h 20.8542 v 22.96809 h 46.04893 v -22.96809 l 37.94255,0.33777 V 778.18367 H 196.61208 Z"
+           id="faea"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccc">
+          <desc
+             id="desc6222">Facultad de Economía y Administración</desc>
+        </path>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.86522579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="faea_lab1"
+           width="66.694962"
+           height="51.196075"
+           x="196.94981"
+           y="452.4938"
+           inkscape:label="Laboratorio I en FaEA">
+          <desc
+             id="desc882">Laboratorio I en FaEA</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.90221715;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="faea_lab2"
+           width="66.669106"
+           height="53.274109"
+           x="196.94981"
+           y="503.68988"
+           inkscape:label="Laboratorio II en FaEA">
+          <desc
+             id="desc882-6">Laboratorio II</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:1.77585649;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="faea_aula6"
+           width="67.028664"
+           height="32.761265"
+           x="196.75356"
+           y="556.86804"
+           inkscape:label="Aula 6 en FaEA">
+          <desc
+             id="desc882-7">Aula 6 en FaEA</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="faea_lab3"
+           width="83.462151"
+           height="67.141975"
+           x="285.35504"
+           y="455.53369"
+           inkscape:label="Laboratorio III en FaEA">
+          <desc
+             id="desc882-5">Laboratorio III en FaEA</desc>
+        </rect>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2.14332342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="faea_aula53"
+           width="83.744263"
+           height="69.752014"
+           x="285.35504"
+           y="552.75543"
+           inkscape:label="Aula 53 en FaEA">
+          <desc
+             id="desc882-5-5">Aula 53 en FaEA</desc>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98701525"
+           x="230.28653"
+           y="481.37546"
+           id="text5766"><tspan
+             sodipodi:role="line"
+             x="230.28653"
+             y="481.37546"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.98701525"
+             id="tspan5768">Lab. I</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98701525"
+           x="230.51859"
+           y="533.61053"
+           id="text5774"><tspan
+             sodipodi:role="line"
+             id="tspan5772"
+             x="230.51859"
+             y="533.61053"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.98701525">Lab. II</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98701525"
+           x="327.07535"
+           y="492.38828"
+           id="text5778"><tspan
+             sodipodi:role="line"
+             id="tspan5776"
+             x="327.07535"
+             y="492.38828"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.98701525">Lab. III</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98701525"
+           x="327.53076"
+           y="590.93872"
+           id="text5782"><tspan
+             sodipodi:role="line"
+             x="327.53076"
+             y="590.93872"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.98701525"
+             id="tspan5784">Aula 53</tspan></text>
+        <path
+           inkscape:label="Entrada"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           id="path6303"
+           d="m 285.44228,316.97901 -10.77565,5.41214 -10.82671,-5.41214 h 7.0227 v -11.66058 h 7.47526 v 11.66058 z"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:0.57308304;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        <rect
+           inkscape:label="Puertas"
+           style="display:inline;opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect3522-2-0-6"
+           width="20.775"
+           height="5.7308302"
+           x="264.2536"
+           y="325.55142" />
+        <rect
+           inkscape:label="Baños"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6164"
+           width="37.188274"
+           height="30.572235"
+           x="331.53574"
+           y="325.58707" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6166"
+           width="66.694931"
+           height="37.801338"
+           x="196.94984"
+           y="381.25366" />
+        <g
+           id="g6500">
+          <rect
+             y="349.48138"
+             x="196.94984"
+             height="20.666304"
+             width="66.858299"
+             id="rect6168"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="349.48138"
+             x="236.42104"
+             height="20.60866"
+             width="13.510635"
+             id="rect6170"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000009;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="349.48138"
+             x="209.88411"
+             height="20.608671"
+             width="13.510635"
+             id="rect6170-2"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000009;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+        </g>
+        <rect
+           inkscape:label="Bedelía"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96470588;paint-order:fill markers stroke"
+           id="rect6187"
+           width="32.670109"
+           height="32.936588"
+           x="285.35504"
+           y="361.73688" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6164-6"
+           width="37.188274"
+           height="30.572235"
+           x="331.53574"
+           y="386.73154" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6164-5"
+           width="37.188274"
+           height="30.572235"
+           x="331.53574"
+           y="356.1593" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96470588;paint-order:fill markers stroke"
+           id="rect6224"
+           width="46.180664"
+           height="22.63031"
+           x="285.35504"
+           y="394.67346" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96470588;paint-order:fill markers stroke"
+           id="rect6230"
+           width="83.672737"
+           height="38.229935"
+           x="285.35504"
+           y="417.30377" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96470588;paint-order:fill markers stroke"
+           id="rect6232"
+           width="66.694969"
+           height="33.43882"
+           x="196.94981"
+           y="419.05499" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d1;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99607843;paint-order:fill markers stroke"
+           id="rect6234"
+           width="83.744263"
+           height="30.079773"
+           x="285.35504"
+           y="522.67566" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6236"
+           width="67.043854"
+           height="32.794144"
+           x="196.62317"
+           y="589.79266" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="327.5932"
+           y="541.02283"
+           id="text6240"><tspan
+             sodipodi:role="line"
+             id="tspan6238"
+             x="327.5932"
+             y="541.02283"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Aula</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="230.78989"
+           y="576.52228"
+           id="text6244"><tspan
+             sodipodi:role="line"
+             id="tspan6242"
+             x="230.78989"
+             y="576.52228"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Aula 6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="230.1832"
+           y="403.30444"
+           id="text6250"><tspan
+             sodipodi:role="line"
+             id="tspan6248"
+             x="230.1832"
+             y="403.30444"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">TIC</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="230.4308"
+           y="428.08539"
+           id="text6254"><tspan
+             sodipodi:role="line"
+             id="tspan6252"
+             x="230.4308"
+             y="428.08539"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Secretaría</tspan><tspan
+             sodipodi:role="line"
+             x="230.4308"
+             y="439.10968"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan6332">de</tspan><tspan
+             sodipodi:role="line"
+             x="230.4308"
+             y="450.134"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan6256">Alumnos</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="350.28922"
+           y="374.73981"
+           id="text6260"><tspan
+             sodipodi:role="line"
+             id="tspan6258"
+             x="350.28922"
+             y="374.73981"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Cocina</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="350.27628"
+           y="344.07498"
+           id="text6264"><tspan
+             sodipodi:role="line"
+             id="tspan6262"
+             x="350.27628"
+             y="344.07498"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Baños</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="350.27628"
+           y="405.21945"
+           id="text6268"><tspan
+             sodipodi:role="line"
+             id="tspan6266"
+             x="350.27628"
+             y="405.21945"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Baños</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="301.78967"
+           y="380.47318"
+           id="text6272"><tspan
+             sodipodi:role="line"
+             id="tspan6270"
+             x="301.78967"
+             y="380.47318"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Bedelía</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="308.5918"
+           y="409.32391"
+           id="text6276"><tspan
+             sodipodi:role="line"
+             id="tspan6274"
+             x="308.5918"
+             y="409.32391"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Bedelía</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="327.32492"
+           y="428.72971"
+           id="text6280"><tspan
+             sodipodi:role="line"
+             id="tspan6278"
+             x="327.32492"
+             y="428.72971"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Secretaría</tspan><tspan
+             sodipodi:role="line"
+             x="327.32492"
+             y="439.754"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan6334">de</tspan><tspan
+             sodipodi:role="line"
+             x="327.32492"
+             y="450.77832"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan6282">Extensión</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="231.11531"
+           y="596.8017"
+           id="text6324"><tspan
+             sodipodi:role="line"
+             id="tspan6322"
+             x="231.11531"
+             y="596.8017"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Oficina</tspan><tspan
+             sodipodi:role="line"
+             x="231.11531"
+             y="604.29822"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan6326">Departamento Ing.</tspan><tspan
+             sodipodi:role="line"
+             x="231.11531"
+             y="611.79474"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan6328">de Computadora</tspan><tspan
+             sodipodi:role="line"
+             x="231.11531"
+             y="619.29126"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722242px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             id="tspan6330">FaI</tspan></text>
+        <text
+           id="text6559"
+           y="794.33044"
+           x="282.96548"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+             y="794.33044"
+             x="282.96548"
+             id="tspan6557"
+             sodipodi:role="line">FaEA (planta baja)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="gpr_aulas_comunes_0"
+       inkscape:label="Grp. Aulas Comunes (planta baja)">
+      <rect
+         inkscape:label="Aulas Comunes"
+         y="-307.05536"
+         x="151.99893"
+         height="299.57458"
+         width="396.638"
+         id="aulas_comunes"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1380">Aulas Comunes</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 102"
+         y="-75.51635"
+         x="219.11772"
+         height="68.208191"
+         width="72.355995"
+         id="aula102"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1047">Aula 102</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 107"
+         y="-247.36154"
+         x="152.29233"
+         height="101.39053"
+         width="131.99557"
+         id="aula107"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1051">Aula 107</desc>
+      </rect>
+      <rect
+         inkscape:label="Secretaría Académica-FaI"
+         y="-219.70959"
+         x="284.74847"
+         height="36.869293"
+         width="66.005936"
+         id="fai_academica"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1055">FaI Secretaría Académica</desc>
+      </rect>
+      <rect
+         inkscape:label="Secretaría de Alumnos-FaI"
+         y="-182.84033"
+         x="284.74847"
+         height="36.869293"
+         width="66.005936"
+         id="fai_alumnos"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1055-9">FaI Secretaría Alumnos</desc>
+      </rect>
+      <rect
+         inkscape:label="Centro de Estudiantes de la FaI"
+         y="-247.36159"
+         x="284.28781"
+         height="27.019592"
+         width="32.791046"
+         id="cefai"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1077">CEFaI</desc>
+      </rect>
+      <rect
+         inkscape:label="Oficina 9-FaI"
+         y="-247.36159"
+         x="317.07886"
+         height="26.933975"
+         width="33.621704"
+         id="fai_oficina9"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1077-6">FaI Oficina 9</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 106"
+         y="-247.51274"
+         x="410.12268"
+         height="102.97861"
+         width="138.49973"
+         id="aula106"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1099">Aula 106</desc>
+      </rect>
+      <rect
+         inkscape:label="Oficina 7-FaI"
+         y="-307.18784"
+         x="334.19223"
+         height="43.342255"
+         width="43.342255"
+         id="fai_oficina7"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1103">Oficina 7 (Dpto. de Cs. de la Comp.)</desc>
+      </rect>
+      <rect
+         inkscape:label="Oficina 6-FaI"
+         y="-307.16211"
+         x="288.92041"
+         height="43.290752"
+         width="45.24604"
+         id="fai_oficina6"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1103-6">Oficina 6 (Dpto. de Cs. de la Comp.)</desc>
+      </rect>
+      <rect
+         inkscape:label="Oficina 5-FaI"
+         y="-307.13635"
+         x="243.64853"
+         height="43.290752"
+         width="45.24604"
+         id="fai_oficina5"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1103-61">Oficina 5 (Dpto. de Ing. en Sist.)</desc>
+      </rect>
+      <rect
+         inkscape:label="Oficina 4-FaI"
+         y="-307.06482"
+         x="194.83788"
+         height="43.199154"
+         width="48.73914"
+         id="fai_oficina4"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1103-7">Oficina 4 (Dpto. de Ing. en Sist.)</desc>
+      </rect>
+      <rect
+         inkscape:label="Oficina 8-FaI"
+         y="-307.44528"
+         x="429.00644"
+         height="43.86887"
+         width="76.848618"
+         id="fai_oficina8"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1103-2">Oficina 7 (Dpto. de Cs. de la Comp.)</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 101"
+         y="-74.998695"
+         x="410.12268"
+         height="67.783363"
+         width="74.626884"
+         id="aula101"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1149">Aula 101</desc>
+      </rect>
+      <text
+         id="text5842"
+         y="-296.04858"
+         x="219.77245"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           id="tspan6704"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-296.04858"
+           x="219.77245"
+           sodipodi:role="line">Of.4</tspan><tspan
+           id="tspan6716"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-287.22913"
+           x="219.77245"
+           sodipodi:role="line">Dpto.</tspan><tspan
+           id="tspan6720"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-278.4097"
+           x="219.77245"
+           sodipodi:role="line">Ing.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-269.59024"
+           x="219.77245"
+           sodipodi:role="line"
+           id="tspan6900">Sist.</tspan></text>
+      <text
+         id="text5848"
+         y="-296.07431"
+         x="266.83655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           id="tspan5850"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-296.07431"
+           x="266.83655"
+           sodipodi:role="line">Of.5</tspan><tspan
+           id="tspan6722"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-287.25485"
+           x="266.83655"
+           sodipodi:role="line">Dpto.</tspan><tspan
+           id="tspan6724"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-278.43542"
+           x="266.83655"
+           sodipodi:role="line">Ing.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-269.61597"
+           x="266.83655"
+           sodipodi:role="line"
+           id="tspan6902">Sist.</tspan></text>
+      <text
+         id="text5854"
+         y="-296.89417"
+         x="312.16528"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           id="tspan5856"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-296.89417"
+           x="312.16528"
+           sodipodi:role="line">Of.6</tspan><tspan
+           id="tspan6726"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-288.07471"
+           x="312.16528"
+           sodipodi:role="line">Dpto.</tspan><tspan
+           id="tspan6728"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-279.25528"
+           x="312.16528"
+           sodipodi:role="line">Teor.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-270.43582"
+           x="312.16528"
+           sodipodi:role="line"
+           id="tspan6904">Comp.</tspan></text>
+      <text
+         id="text5860"
+         y="-296.89413"
+         x="356.4852"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           id="tspan5862"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-296.89413"
+           x="356.4852"
+           sodipodi:role="line">Of.7</tspan><tspan
+           id="tspan6730"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-288.07468"
+           x="356.4852"
+           sodipodi:role="line">Dpto.</tspan><tspan
+           id="tspan6732"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-279.25525"
+           x="356.4852"
+           sodipodi:role="line">Teor.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-270.43579"
+           x="356.4852"
+           sodipodi:role="line"
+           id="tspan6906">Comp.</tspan></text>
+      <text
+         id="text6736"
+         y="-230.58731"
+         x="334.04044"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan6738"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-230.58731"
+           x="334.04044"
+           sodipodi:role="line">Of.9</tspan></text>
+      <text
+         id="text6744"
+         y="-230.70168"
+         x="300.47662"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-230.70168"
+           x="300.47662"
+           id="tspan6742"
+           sodipodi:role="line">CeFEA</tspan></text>
+      <text
+         id="text6748"
+         y="-208.96397"
+         x="317.44785"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-208.96397"
+           x="320.09412"
+           id="tspan6746"
+           sodipodi:role="line">Secretaría </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-197.93967"
+           x="317.44785"
+           sodipodi:role="line"
+           id="tspan6858">Académica</tspan><tspan
+           id="tspan6750"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-186.91536"
+           x="317.44785"
+           sodipodi:role="line">FaI</tspan></text>
+      <text
+         id="text6754"
+         y="-172.09471"
+         x="317.44785"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-172.09471"
+           x="320.09412"
+           id="tspan6752"
+           sodipodi:role="line">Secretaría </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-161.0704"
+           x="317.44785"
+           sodipodi:role="line"
+           id="tspan6860">Alumnos</tspan><tspan
+           id="tspan6756"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-150.0461"
+           x="317.44785"
+           sodipodi:role="line">FaI</tspan></text>
+      <text
+         id="text6760"
+         y="-193.35898"
+         x="222.12653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-193.35898"
+           x="222.12653"
+           id="tspan6758"
+           sodipodi:role="line">Aula 107</tspan></text>
+      <text
+         id="text6764"
+         y="-193.2453"
+         x="479.63309"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-193.2453"
+           x="479.63309"
+           id="tspan6762"
+           sodipodi:role="line">Aula 106</tspan></text>
+      <text
+         id="text6768"
+         y="-105.08673"
+         x="392.29102"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-105.08673"
+           x="392.29102"
+           id="tspan6766"
+           sodipodi:role="line">Bar</tspan></text>
+      <text
+         id="text6772"
+         y="-37.799721"
+         x="448.37921"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-37.799721"
+           x="448.37921"
+           id="tspan6770"
+           sodipodi:role="line">Aula 101</tspan></text>
+      <text
+         id="text6776"
+         y="-38.047077"
+         x="255.56917"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-38.047077"
+           x="255.56917"
+           id="tspan6774"
+           sodipodi:role="line">Aula 102</tspan></text>
+      <text
+         id="text6780"
+         y="-292.47855"
+         x="467.4032"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-292.47855"
+           x="467.4032"
+           id="tspan6778"
+           sodipodi:role="line">Of.8</tspan><tspan
+           id="tspan6782"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-283.65909"
+           x="467.4032"
+           sodipodi:role="line">Dpto.</tspan><tspan
+           id="tspan6784"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="-274.83966"
+           x="467.4032"
+           sodipodi:role="line">Programación</tspan></text>
+      <rect
+         style="opacity:0.95;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect6862"
+         width="67.336807"
+         height="68.266075"
+         x="151.78091"
+         y="-75.51635"
+         inkscape:label="Baños" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="185.59573"
+         y="-38.181526"
+         id="text6866"><tspan
+           sodipodi:role="line"
+           id="tspan6864"
+           x="185.59573"
+           y="-38.181526"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Baños</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="516.83966"
+         y="-38.037949"
+         id="text6870"><tspan
+           sodipodi:role="line"
+           id="tspan6868"
+           x="516.83966"
+           y="-38.037949"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Baños</tspan></text>
+      <rect
+         style="opacity:0.95;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect6872"
+         width="63.88739"
+         height="67.517921"
+         x="484.74957"
+         y="-74.998695"
+         inkscape:label="Baños" />
+      <g
+         id="g6898"
+         transform="matrix(0.95621067,-0.80895365,1.2852846,1.4651218,205.38471,299.55627)"
+         style="stroke-width:1.53249145;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           y="-120.56852"
+           x="300.79349"
+           height="14.699075"
+           width="36.584362"
+           id="rect6874"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:1.53249145;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+        <rect
+           y="-120.56852"
+           x="307.96936"
+           height="14.468093"
+           width="7.4534163"
+           id="rect6876"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:1.53249145;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+        <rect
+           y="-120.4052"
+           x="322.47623"
+           height="14.468093"
+           width="7.6843901"
+           id="rect6876-9"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:1.53249145;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      </g>
+      <path
+         inkscape:transform-center-y="-9.967319e-06"
+         inkscape:label="Bar Aulas Comunes"
+         transform="matrix(4.8771977,0,0,4.1016439,-1755.58,-661.95243)"
+         inkscape:transform-center-x="4.5854156e-05"
+         d="m 445.39161,135.18393 -5.12046,5.07798 -5.07798,-5.12046 5.12046,-5.07798 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.78956412"
+         sodipodi:arg1="0.0041659501"
+         sodipodi:r2="4.0112696"
+         sodipodi:r1="5.0992637"
+         sodipodi:cy="135.16269"
+         sodipodi:cx="440.29239"
+         sodipodi:sides="4"
+         id="bar_aulas"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.44716299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         sodipodi:type="star">
+        <desc
+           id="desc1205">Bar en Aulas Comunes</desc>
+      </path>
+      <g
+         id="g6952">
+        <rect
+           y="-307.129"
+           x="151.92526"
+           height="10.86973"
+           width="42.781918"
+           id="rect6908"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+        <rect
+           y="-296.25925"
+           x="151.92526"
+           height="10.86973"
+           width="42.781918"
+           id="rect6908-9"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+        <rect
+           y="-285.38953"
+           x="151.92526"
+           height="10.86973"
+           width="42.781918"
+           id="rect6908-9-7"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+        <rect
+           y="-274.51978"
+           x="151.92526"
+           height="10.86973"
+           width="42.781918"
+           id="rect6908-9-8"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      </g>
+      <g
+         id="g6962"
+         transform="translate(353.92978,0.07363892)">
+        <rect
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6954"
+           width="42.781918"
+           height="10.86973"
+           x="151.92526"
+           y="-307.129" />
+        <rect
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6956"
+           width="42.781918"
+           height="10.86973"
+           x="151.92526"
+           y="-296.25925" />
+        <rect
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6958"
+           width="42.781918"
+           height="10.86973"
+           x="151.92526"
+           y="-285.38953" />
+        <rect
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6960"
+           width="42.781918"
+           height="10.86973"
+           x="151.92526"
+           y="-274.51978" />
+      </g>
+      <g
+         id="g6962-2"
+         transform="matrix(1.3814118,0,0,0.99214742,140.99992,56.997199)"
+         style="stroke-width:1.70836365;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:1.70836365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6954-5"
+           width="42.781918"
+           height="10.86973"
+           x="151.92526"
+           y="-307.129" />
+        <rect
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:1.70836365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6956-3"
+           width="42.781918"
+           height="10.86973"
+           x="151.92526"
+           y="-296.25925" />
+        <rect
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:1.70836365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6958-4"
+           width="42.781918"
+           height="10.86973"
+           x="151.92526"
+           y="-285.38953" />
+        <rect
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:#00002c;stroke-width:1.70836365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect6960-9"
+           width="42.781918"
+           height="10.86973"
+           x="151.92526"
+           y="-274.51978" />
+      </g>
+      <path
+         style="opacity:0.95;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 291.47372,-75.51635 32.8383,25.869051 v 42.4249632 h -32.8383 z"
+         id="rect6991"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="Bedelía" />
+      <path
+         style="opacity:0.95;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 375.59546,-49.647299 34.52722,-25.844065 v 68.2760396 h -34.52722 z"
+         id="rect6993"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="308.15005"
+         y="-32.786213"
+         id="text6997"><tspan
+           sodipodi:role="line"
+           id="tspan6995"
+           x="308.15005"
+           y="-32.786213"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Bedelía</tspan></text>
+      <path
+         inkscape:label="Entrada"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path6303-2"
+         d="m 327.42642,22.778247 21.38097,-10.738731 21.48229,10.738731 H 356.35529 V 45.915095 H 341.52292 V 22.778247 Z"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000015;stroke-width:1.13710761;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <rect
+         inkscape:label="Puertas"
+         style="display:inline;opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:4.11725616;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect3522-2-0-6-0"
+         width="50.456173"
+         height="10"
+         x="324.31201"
+         y="-17.222336" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52499962px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="345.33685"
+         y="66.763435"
+         id="text7034"><tspan
+           sodipodi:role="line"
+           id="tspan7032"
+           x="345.33685"
+           y="66.763435"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52499962px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Aulas Comunes (planta baja)</tspan></text>
+    </g>
+  </g>
+</svg>
