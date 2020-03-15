@@ -84,8 +84,8 @@
      id="layer1"
      transform="translate(56.557331,-79.72718)">
     <image
-       sodipodi:absref="/home/poo/cloud/facu/misc/mapa_aulas.png"
-       xlink:href="mapa_aulas.png"
+       sodipodi:absref="../imgs/mapa_aulas.png"
+       xlink:href="../imgs/mapa_aulas.png"
        y="79.72718"
        x="-56.557331"
        id="image877"
