@@ -21,11 +21,16 @@ export class Map
     MAP_URL = '../imgs/aulario.svg'
 
     # @param canvas {object} The HTML SVG object.
-    constructor: (@svg) ->
+    constructor: (@maindiv) ->
         this.load_map()
 
+    # Load the map from the SVG URL.
     load_map: () ->
-        
+        fetch(MAP_URL).then (result) =>
+            result.text().then (text) =>
+                console.log 'text: '
+                console.log text
+                @maindiv.innerHTML = text
 
     # Highlight the classroom name
     #

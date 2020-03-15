@@ -21,14 +21,22 @@ export var Map = (function() {
 
   class Map {
     // @param canvas {object} The HTML SVG object.
-    constructor(svg) {
-      this.svg = svg;
+    constructor(maindiv) {
+      this.maindiv = maindiv;
       this.load_map();
     }
 
-    load_map() {}
+    // Load the map from the SVG URL.
+    load_map() {
+      return fetch(MAP_URL).then((result) => {
+        return result.text().then((text) => {
+          console.log('text: ');
+          console.log(text);
+          return this.maindiv.innerHTML = text;
+        });
+      });
+    }
 
-    
     // Highlight the classroom name
 
     // @param classroom {string} The classroom ID.
