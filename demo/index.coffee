@@ -1,4 +1,5 @@
 import {Map} from '../js/unco-mapa.js'
 
-m = new Map document.getSelector 'svg.map'
+console.log 'loading map...'
+cr_map = new Map document.querySelector '.map'
 
