@@ -21,14 +21,15 @@ export class Map
     MAP_URL = '../imgs/aulario.svg'
 
     # @param maindiv {object} The HTML SVG object.
-    constructor: (@maindiv) ->
-        this.load_map()
+    constructor: (@maindiv, load_callback=null) ->
+        this.load_map load_callback
 
     # Load the map from the SVG URL.
-    load_map: () ->
+    load_map: (load_callback=null) ->
         fetch(MAP_URL).then (result) =>
             result.text().then (text) =>
                 @maindiv.innerHTML = text
+                load_callback() if load_callback?
 
     reset_all: () ->
         lst = @maindiv.querySelectorAll 'rect'
@@ -45,3 +46,12 @@ export class Map
         this.reset_all()
         draw = @maindiv.querySelector "#" + classroom
         draw.style.fill = 'red'
+
+    # Return all classrooms id
+    # 
+    # @return {array} An array of strings.
+    get_classrooms: () ->
+        lst = Array.from @maindiv.querySelectorAll 'rect'
+        lst = lst.concat Array.from @maindiv.querySelectorAll 'path'
+        lst.map (elt) ->
+            elt.getAttribute 'id'
