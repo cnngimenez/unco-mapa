@@ -1,0 +1,28 @@
+{
+    "name": "unco-mapa",
+    "version": "0.0.1",
+    "description": "A classroom map for Universidad Nacional del Comahue, Facultad de Informática. ",
+    "keywords": [
+        "classroom",
+        "map",
+        "UNComa",
+        "FaI",
+        "Comahue"
+    ],
+    "homepage": "https://github.com/cnngimenez/unco-mapa",
+    "author": "Christian Gimenez",
+    "contributors": [
+    ],
+    "license": "GPLv3",
+    "repository": "cnngimenez/unco-mapa",
+    "files": [
+        "js/",
+        "imgs/",
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "scripts": {
+    }
+}
