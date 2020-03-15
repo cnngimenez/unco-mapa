@@ -32,8 +32,19 @@ export class Map
                 console.log text
                 @maindiv.innerHTML = text
 
+    reset_all: () ->
+        lst = @maindiv.querySelectAll 'rect'
+        lst.forEach (elt) ->
+            elt.style.fill = 'none'
+        lst = @maindiv.querySelectAll 'path'
+        lst.forEach (elt) ->
+            elt.style.fill = 'none'
+        
+
     # Highlight the classroom name
     #
     # @param classroom {string} The classroom ID.
     highlight: (classroom) ->
-        # draw = @svg.querySelectorAll ("#classroom")
+        this.reset_all()
+        draw = @svg.querySelectorAll "#" + classroom
+        draw.fill 'red'

@@ -37,10 +37,28 @@ export var Map = (function() {
       });
     }
 
+    reset_all() {
+      var lst;
+      lst = this.maindiv.querySelectAll('rect');
+      lst.forEach(function(elt) {
+        return elt.style.fill = 'none';
+      });
+      lst = this.maindiv.querySelectAll('path');
+      return lst.forEach(function(elt) {
+        return elt.style.fill = 'none';
+      });
+    }
+
+    
     // Highlight the classroom name
 
     // @param classroom {string} The classroom ID.
-    highlight(classroom) {}
+    highlight(classroom) {
+      var draw;
+      this.reset_all();
+      draw = this.svg.querySelectorAll("#" + classroom);
+      return draw.fill('red');
+    }
 
   };
 
@@ -49,5 +67,3 @@ export var Map = (function() {
   return Map;
 
 }).call(this);
-
-// draw = @svg.querySelectorAll ("#classroom")
