@@ -9,15 +9,26 @@ assign_events = function() {
   var btn;
   btn = document.querySelector('.btn-highlight');
   return btn.addEventListener('click', function() {
-    var name, txt;
-    txt = document.querySelector('.txt-classroom');
-    name = txt.value;
+    var name, sel;
+    sel = document.querySelector('select.classroom');
+    name = sel.value;
     return cr_map.highlight(name);
+  });
+};
+
+export var fill_select = function() {
+  var lst_ids, select;
+  lst_ids = cr_map.get_classrooms();
+  select = document.querySelector('select.classroom');
+  return lst_ids.forEach((idstr) => {
+    var op;
+    op = "<option value=\"" + idstr + "\">" + idstr + "</option>";
+    return select.innerHTML = select.innerHTML.concat(op);
   });
 };
 
 console.log('loading map...');
 
-export var cr_map = new Map(document.querySelector('.map'));
+export var cr_map = new Map(document.querySelector('.map'), fill_select);
 
 assign_events();
