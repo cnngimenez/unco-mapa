@@ -19,6 +19,9 @@ assign_events = function() {
 export var fill_select = function() {
   var lst_ids, select;
   lst_ids = cr_map.get_classrooms();
+  lst_ids.sort(function(first, second) {
+    return second.name < first.name;
+  });
   select = document.querySelector('select.classroom');
   return lst_ids.forEach((idobj) => {
     var op;

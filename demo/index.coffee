@@ -9,6 +9,8 @@ assign_events = () ->
 
 export fill_select = () ->
     lst_ids = cr_map.get_classrooms()
+    lst_ids.sort (first, second) ->
+         second.name < first.name 
     select = document.querySelector 'select.classroom'
     lst_ids.forEach (idobj) =>
         op = "<option value=\"" + idobj.id + "\">"
