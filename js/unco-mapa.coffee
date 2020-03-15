@@ -20,7 +20,7 @@ export class Map
 
     MAP_URL = '../imgs/aulario.svg'
 
-    # @param canvas {object} The HTML SVG object.
+    # @param maindiv {object} The HTML SVG object.
     constructor: (@maindiv) ->
         this.load_map()
 
@@ -28,23 +28,20 @@ export class Map
     load_map: () ->
         fetch(MAP_URL).then (result) =>
             result.text().then (text) =>
-                console.log 'text: '
-                console.log text
                 @maindiv.innerHTML = text
 
     reset_all: () ->
-        lst = @maindiv.querySelectAll 'rect'
+        lst = @maindiv.querySelectorAll 'rect'
         lst.forEach (elt) ->
             elt.style.fill = 'none'
-        lst = @maindiv.querySelectAll 'path'
+        lst = @maindiv.querySelectorAll 'path'
         lst.forEach (elt) ->
             elt.style.fill = 'none'
-        
 
     # Highlight the classroom name
     #
     # @param classroom {string} The classroom ID.
     highlight: (classroom) ->
         this.reset_all()
-        draw = @svg.querySelectorAll "#" + classroom
-        draw.fill 'red'
+        draw = @maindiv.querySelector "#" + classroom
+        draw.style.fill = 'red'

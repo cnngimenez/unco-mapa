@@ -20,7 +20,7 @@ export var Map = (function() {
   var MAP_URL;
 
   class Map {
-    // @param canvas {object} The HTML SVG object.
+    // @param maindiv {object} The HTML SVG object.
     constructor(maindiv) {
       this.maindiv = maindiv;
       this.load_map();
@@ -30,8 +30,6 @@ export var Map = (function() {
     load_map() {
       return fetch(MAP_URL).then((result) => {
         return result.text().then((text) => {
-          console.log('text: ');
-          console.log(text);
           return this.maindiv.innerHTML = text;
         });
       });
@@ -39,25 +37,24 @@ export var Map = (function() {
 
     reset_all() {
       var lst;
-      lst = this.maindiv.querySelectAll('rect');
+      lst = this.maindiv.querySelectorAll('rect');
       lst.forEach(function(elt) {
         return elt.style.fill = 'none';
       });
-      lst = this.maindiv.querySelectAll('path');
+      lst = this.maindiv.querySelectorAll('path');
       return lst.forEach(function(elt) {
         return elt.style.fill = 'none';
       });
     }
 
-    
     // Highlight the classroom name
 
     // @param classroom {string} The classroom ID.
     highlight(classroom) {
       var draw;
       this.reset_all();
-      draw = this.svg.querySelectorAll("#" + classroom);
-      return draw.fill('red');
+      draw = this.maindiv.querySelector("#" + classroom);
+      return draw.style.fill = 'red';
     }
 
   };
