@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="673.68439mm"
+   height="269.74802mm"
+   viewBox="0 0 673.68439 269.74802"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="aulario.svg">
+  <title
+     id="title1467">Aulas de la Universidad Nacional del Comahue</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1346.352"
+     inkscape:cy="691.65319"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Aulas de la Universidad Nacional del Comahue</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:date>10 de Marzo del 2020</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Gimenez Christian</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(56.557331,-79.72718)">
+    <image
+       sodipodi:absref="/home/poo/cloud/facu/misc/mapa_aulas.png"
+       xlink:href="mapa_aulas.png"
+       y="79.72718"
+       x="-56.557331"
+       id="image877"
+       preserveAspectRatio="none"
+       height="269.74802"
+       width="599.948"
+       style="fill:#000000;fill-opacity:0" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="faea_lab1"
+       width="19.385132"
+       height="13.723834"
+       x="181.8688"
+       y="202.82802"
+       inkscape:label="faea_lab1">
+      <desc
+         id="desc882">Laboratorio I</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.50991607;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="faea_lab2"
+       width="19.375217"
+       height="14.280883"
+       x="181.87376"
+       y="216.55681"
+       inkscape:label="faea_lab2">
+      <desc
+         id="desc882-6">Laboratorio II</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.47604331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="faea_aula6"
+       width="19.409088"
+       height="12.424874"
+       x="181.85187"
+       y="230.82571"
+       inkscape:label="faea_aula6">
+      <desc
+         id="desc882-7">Aula 6</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.55955613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="faea_lab3"
+       width="18.802164"
+       height="17.720814"
+       x="209.37476"
+       y="203.0477"
+       inkscape:label="faea_lab3">
+      <desc
+         id="desc882-5">Laboratorio III</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.57454801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="faea_aula53"
+       width="18.787174"
+       height="18.698009"
+       x="209.45462"
+       y="231.11993"
+       inkscape:label="faea_aula53">
+      <desc
+         id="desc882-5-5">Aula 53</desc>
+    </rect>
+    <rect
+       inkscape:label="faea_aula5"
+       y="249.81862"
+       x="181.83479"
+       height="14.262218"
+       width="19.375544"
+       id="faea_aula5"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.50958705;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+      <desc
+         id="desc938">Aula 5</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula41"
+       width="18.757084"
+       height="14.126856"
+       x="209.49332"
+       y="128.46986"
+       inkscape:label="aula41">
+      <desc
+         id="desc944">Aula 41</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula40"
+       width="18.757084"
+       height="14.126856"
+       x="209.49332"
+       y="142.59673"
+       inkscape:label="aula40">
+      <desc
+         id="desc944-2">Aula 40</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula46"
+       width="15.024557"
+       height="9.6383896"
+       x="228.39211"
+       y="147.17969"
+       inkscape:label="aula46">
+      <desc
+         id="desc976">Aula 46</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula42"
+       width="29.340395"
+       height="14.174112"
+       x="236.99106"
+       y="128.51711"
+       inkscape:label="aula42">
+      <desc
+         id="desc980">Aula 42</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.49089015;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula43"
+       width="28.262823"
+       height="14.183222"
+       x="266.3269"
+       y="128.51254"
+       inkscape:label="aula43">
+      <desc
+         id="desc980-1">Aula 43</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula45"
+       width="23.765251"
+       height="14.410342"
+       x="309.51526"
+       y="128.46986"
+       inkscape:label="aula45">
+      <desc
+         id="desc1021">Aula 45</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.48788962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula44"
+       width="23.777363"
+       height="13.713747"
+       x="309.50919"
+       y="142.87415"
+       inkscape:label="aula44">
+      <desc
+         id="desc1021-7">Aula 44</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fai_cd"
+       width="31.372023"
+       height="13.229166"
+       x="355.10861"
+       y="107.06696"
+       inkscape:label="fai_cd">
+      <desc
+         id="desc1043">Consejo Directivo FaI</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula102"
+       width="14.835566"
+       height="13.985119"
+       x="415.39581"
+       y="142.69122"
+       inkscape:label="aula102">
+      <desc
+         id="desc1047">Aula 102</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula107"
+       width="28.537247"
+       height="20.788685"
+       x="401.69421"
+       y="107.44495"
+       inkscape:label="aula107">
+      <desc
+         id="desc1051">Aula 107</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fai_academica"
+       width="17.953869"
+       height="7.5595236"
+       x="430.3259"
+       y="113.11458"
+       inkscape:label="fai_academica">
+      <desc
+         id="desc1055">FaI Secretaría Académica</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fai_alumnos"
+       width="17.953869"
+       height="7.5595236"
+       x="430.3259"
+       y="120.6741"
+       inkscape:label="fai_alumnos">
+      <desc
+         id="desc1055-9">FaI Secretaría Alumnos</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="cefai"
+       width="8.6919365"
+       height="5.5399833"
+       x="430.23145"
+       y="107.44494"
+       inkscape:label="cefai">
+      <desc
+         id="desc1077">CEFaI</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.51755375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fai_oficina9"
+       width="9.342557"
+       height="5.5224299"
+       x="438.93216"
+       y="107.45371"
+       inkscape:label="fai_oficina9">
+      <desc
+         id="desc1077-6">FaI Oficina 9</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula106"
+       width="28.3974"
+       height="21.114298"
+       x="454.55865"
+       y="107.30544"
+       inkscape:label="aula106">
+      <desc
+         id="desc1099">Aula 106</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fai_oficina7"
+       width="8.8867121"
+       height="8.8867121"
+       x="438.9902"
+       y="95.612411"
+       inkscape:label="fai_oficina7">
+      <desc
+         id="desc1103">Oficina 7 (Dpto. de Cs. de la Comp.)</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5105595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fai_oficina6"
+       width="9.2770567"
+       height="8.876153"
+       x="429.70786"
+       y="95.617691"
+       inkscape:label="fai_oficina6">
+      <desc
+         id="desc1103-6">Oficina 6 (Dpto. de Cs. de la Comp.)</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5105595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fai_oficina5"
+       width="9.2770567"
+       height="8.876153"
+       x="420.42551"
+       y="95.622971"
+       inkscape:label="fai_oficina5">
+      <desc
+         id="desc1103-61">Oficina 5 (Dpto. de Ing. en Sist.)</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.52934045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fai_oficina4"
+       width="9.9932671"
+       height="8.8573713"
+       x="410.41757"
+       y="95.637642"
+       inkscape:label="fai_oficina4">
+      <desc
+         id="desc1103-7">Oficina 4 (Dpto. de Ing. en Sist.)</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.52597862;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fai_oficina7-9"
+       width="9.8629942"
+       height="8.860733"
+       x="463.55859"
+       y="95.391541"
+       inkscape:label="fai_oficina7">
+      <desc
+         id="desc1103-2">Oficina 7 (Dpto. de Cs. de la Comp.)</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula101"
+       width="15.301181"
+       height="13.898015"
+       x="454.55865"
+       y="142.78549"
+       inkscape:label="aula101">
+      <desc
+         id="desc1149">Aula 101</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula105"
+       width="18.708866"
+       height="13.697563"
+       x="491.50867"
+       y="142.71866"
+       inkscape:label="aula105">
+      <desc
+         id="desc1153">Aula 105</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="biblio_aulainfo"
+       width="18.708864"
+       height="11.158508"
+       x="491.44186"
+       y="191.82944"
+       inkscape:label="biblio_aulainfo">
+      <desc
+         id="desc1157">Aula Informática de Biblioteca</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula13.1"
+       width="14.566189"
+       height="6.7485552"
+       x="-38.954533"
+       y="182.34137"
+       inkscape:label="fahu_aula13.1">
+      <desc
+         id="desc1168">Aula 13.1</desc>
+    </rect>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_pagoda"
+       sodipodi:sides="8"
+       sodipodi:cx="-27.884624"
+       sodipodi:cy="174.30939"
+       sodipodi:r1="8.706212"
+       sodipodi:r2="4.3799801"
+       sodipodi:arg1="0.40025555"
+       sodipodi:arg2="0.79295463"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -19.866539,177.7018 -4.747237,4.67602 -6.663256,-0.0504 -4.67603,-4.74723 0.05035,-6.66326 4.747237,-4.67603 6.663256,0.0504 4.67603,4.74724 z"
+       inkscape:transform-center-x="-0.0040986331"
+       inkscape:transform-center-y="0.10816238"
+       transform="matrix(1,0,0,0.72167315,0,48.197786)"
+       inkscape:label="fahu_pagoda">
+      <desc
+         id="desc1172">Aula 13 (Pagoda)</desc>
+    </path>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula14"
+       width="14.03165"
+       height="9.4212503"
+       x="-24.321527"
+       y="207.13062"
+       inkscape:label="fahu_aula14">
+      <desc
+         id="desc1176">Aula 14</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula15"
+       width="14.031651"
+       height="9.4212503"
+       x="-24.321527"
+       y="216.55186"
+       inkscape:label="fahu_aula15">
+      <desc
+         id="desc1176-2">Aula 15</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.52321416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula16"
+       width="14.008436"
+       height="10.33348"
+       x="-24.309921"
+       y="225.98473"
+       inkscape:label="fahu_aula16">
+      <desc
+         id="desc1176-7">Aula 16</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula13.2"
+       width="14.031651"
+       height="9.4212503"
+       x="-3.8754084"
+       y="207.09721"
+       inkscape:label="fahu_aula13.2">
+      <desc
+         id="desc1176-9">Aula 13.2</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.55158508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula19"
+       width="13.980066"
+       height="11.507821"
+       x="-38.728291"
+       y="243.20441"
+       inkscape:label="fahu_aula19">
+      <desc
+         id="desc1176-28">Aula 19</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula21"
+       width="14.031651"
+       height="9.4212503"
+       x="-38.779877"
+       y="254.71223"
+       inkscape:label="fahu_aula21">
+      <desc
+         id="desc1176-73">Aula 21</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula24"
+       width="14.031651"
+       height="9.4212503"
+       x="-38.779877"
+       y="264.13348"
+       inkscape:label="fahu_aula24">
+      <desc
+         id="desc1176-1">Aula 24</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5225215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula1"
+       width="14.413803"
+       height="10.016293"
+       x="-4.2001195"
+       y="249.99092"
+       inkscape:label="fahu_aula1">
+      <desc
+         id="desc1176-3">Aula 1 (Pabellón 1)</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.49598598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula25"
+       width="20.976051"
+       height="6.2014384"
+       x="-45.077656"
+       y="284.42166"
+       inkscape:label="fahu_aula25">
+      <desc
+         id="desc1176-94">Aula 25</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.48956713;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula26"
+       width="20.415506"
+       height="6.2078571"
+       x="-44.792572"
+       y="294.65204"
+       inkscape:label="fahu_aula26">
+      <desc
+         id="desc1176-94-8">Aula 26</desc>
+    </rect>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aula_magna"
+       sodipodi:sides="8"
+       sodipodi:cx="44.032654"
+       sodipodi:cy="132.29517"
+       sodipodi:r1="8.9587631"
+       sodipodi:r2="10.317795"
+       sodipodi:arg1="0.39020136"
+       sodipodi:arg2="0.78290045"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 52.318009,135.70285 -4.836322,4.86054 -6.85672,0.0171 -4.860542,-4.83632 -0.01713,-6.85672 4.836322,-4.86054 6.856719,-0.0171 4.860543,4.83632 z"
+       inkscape:transform-center-y="-1.5951581e-06"
+       inkscape:label="aula_magna">
+      <desc
+         id="desc1272">Aula Magna</desc>
+    </path>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula7"
+       width="17.372513"
+       height="13.497115"
+       x="337.62823"
+       y="202.98793"
+       inkscape:label="fahu_aula7">
+      <desc
+         id="desc1276">Aula 7</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.47906455;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula6"
+       width="15.923466"
+       height="13.51805"
+       x="354.99026"
+       y="202.97746"
+       inkscape:label="fahu_aula6">
+      <desc
+         id="desc1276-3">Aula 6</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.47711396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula5"
+       width="15.791781"
+       height="13.520001"
+       x="370.90228"
+       y="202.98695"
+       inkscape:label="fahu_aula5">
+      <desc
+         id="desc1276-1">Aula 5</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.46523225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula4"
+       width="15.001855"
+       height="13.531883"
+       x="386.67667"
+       y="202.96957"
+       inkscape:label="fahu_aula4">
+      <desc
+         id="desc1276-6">Aula 4</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.44472629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula1b"
+       width="17.372513"
+       height="10.677917"
+       x="337.69507"
+       y="225.6519"
+       inkscape:label="fahu_aula1">
+      <desc
+         id="desc1276-2">Aula 1</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.42870271;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula2"
+       width="16.119005"
+       height="10.69394"
+       x="355.05954"
+       y="225.64389"
+       inkscape:label="fahu_aula2">
+      <desc
+         id="desc1276-2-6">Aula 2</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.41913238;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="fahu_aula3"
+       width="15.393585"
+       height="10.70351"
+       x="371.16577"
+       y="225.64711"
+       inkscape:label="fahu_aula3">
+      <desc
+         id="desc1276-2-5">Aula 3</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="comedor"
+       width="51.449383"
+       height="17.639797"
+       x="76.973618"
+       y="95.211502"
+       inkscape:label="comedor">
+      <desc
+         id="desc1356">Comedor</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="ingreso"
+       width="22.851543"
+       height="9.4880686"
+       x="26.726952"
+       y="156.81714"
+       inkscape:label="ingreso">
+      <desc
+         id="desc1360">Orientación e Ingreso</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="dpto_becas"
+       width="24.856066"
+       height="9.2207947"
+       x="49.578499"
+       y="142.78549"
+       inkscape:label="dpto_becas">
+      <desc
+         id="desc1364">Departamento Becas</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="barcito"
+       width="14.699824"
+       height="10.958051"
+       x="-4.4099469"
+       y="191.82944"
+       inkscape:label="barcito">
+      <desc
+         id="desc1368">Barcito</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="faea"
+       width="46.237625"
+       height="79.512688"
+       x="181.74329"
+       y="189.0231"
+       inkscape:label="FaEA">
+      <desc
+         id="desc1372">Facultad de Economía y Administración</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aulas_hum"
+       width="63.944229"
+       height="33.609158"
+       x="337.62823"
+       y="202.98793"
+       inkscape:label="aulas_hum">
+      <desc
+         id="desc1376">Aulas Facultad de Humanidades</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="aulas_comunes"
+       width="81.324974"
+       height="61.423512"
+       x="401.63406"
+       y="95.205582"
+       inkscape:label="aulas_comunes">
+      <desc
+         id="desc1380">Aulas Comunes</desc>
+    </rect>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000011;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 454.5555,199.57894 36.61751,0.13429 0.26885,-7.88379 42.44951,-0.001 v 57.92484 l -42.18439,0.48729 -0.21495,-7.27973 -37.07016,0.29969 z"
+       id="rect1390"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.6180805;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1392"
+       width="14.070807"
+       height="58.107597"
+       x="602.74719"
+       y="194.00572" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="541.92645"
+       y="221.05609"
+       id="text1398"><tspan
+         sodipodi:role="line"
+         id="tspan1396"
+         x="541.92645"
+         y="221.05609"
+         style="stroke-width:0.26458332">Consejo</tspan><tspan
+         sodipodi:role="line"
+         x="541.92645"
+         y="225.90678"
+         style="stroke-width:0.26458332"
+         id="tspan1455">Superior</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="604.08655"
+       y="220.48276"
+       id="text1402"><tspan
+         sodipodi:role="line"
+         id="tspan1400"
+         x="604.08655"
+         y="220.48276"
+         style="stroke-width:0.26458332">Salón</tspan><tspan
+         sodipodi:role="line"
+         x="604.08655"
+         y="225.33345"
+         style="stroke-width:0.26458332"
+         id="tspan1404">Azúl</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1406"
+       width="11.720915"
+       height="11.430117"
+       x="591.24744"
+       y="194.1895" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1406-5"
+       width="16.878962"
+       height="11.469261"
+       x="574.36847"
+       y="194.18948" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22636773"
+       x="570.01001"
+       y="-82.35347"
+       id="text1425"
+       transform="matrix(0.93423957,0.4599969,-0.53136793,0.80875658,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1423"
+         x="570.01001"
+         y="-82.35347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22636773">Aula</tspan><tspan
+         sodipodi:role="line"
+         x="570.01001"
+         y="-79.335236"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22636773"
+         id="tspan1459">Informática</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1429"
+       width="29.84947"
+       height="43.570885"
+       x="537.48212"
+       y="201.93898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="570.17706"
+       y="259.10788"
+       id="text1435"><tspan
+         sodipodi:role="line"
+         id="tspan1433"
+         x="570.17706"
+         y="259.10788"
+         style="stroke-width:0.26458332">Biblioteca</tspan><tspan
+         sodipodi:role="line"
+         x="570.17706"
+         y="263.95859"
+         style="stroke-width:0.26458332"
+         id="tspan1437">1° Piso</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 537.48212,201.93898 36.61752,0.13429 0.26884,-7.88379 42.44952,-0.001 v 57.92484 l -42.1844,0.48729 -0.21495,-7.27973 -37.07016,0.29969 z"
+       id="rect1390-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1457"
+       width="27.950577"
+       height="9.910738"
+       x="574.79663"
+       y="242.20258" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="faea_aulas"
+       width="123.79324"
+       height="28.118027"
+       x="209.49332"
+       y="128.46986"
+       inkscape:label="faea_aulas">
+      <desc
+         id="desc1465">Aulas Facultad de Economía y Administración</desc>
+    </rect>
+  </g>
+</svg>
