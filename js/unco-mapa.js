@@ -39,6 +39,13 @@ Map = class Map {
 
   reset_all() {
     var lst;
+    if (this.current_animation != null) {
+      try {
+        this.current_animation.cancel();
+      } catch (error) {
+
+      }
+    }
     lst = this.maindiv.querySelectorAll('rect');
     lst.forEach(function(elt) {
       if (elt.style.fill === "red") {
@@ -57,19 +64,35 @@ Map = class Map {
 
   // @param classroom {string} The classroom ID.
   highlight(classroom) {
-    var draw, rect;
+    var draw, lst_rect;
     draw = this.maindiv.querySelector("#" + classroom);
     if (draw.style.fill === 'red') {
       return;
     }
     this.reset_all();
-    rect = draw.querySelector('rect');
-    rect.previous_fill = rect.style.fill;
-    rect.style.fill = 'red';
+    lst_rect = Array.from(draw.querySelectorAll('rect'));
+    lst_rect = lst_rect.concat(Array.from(draw.querySelectorAll('path')));
+    lst_rect.forEach(function(rect) {
+      rect.previous_fill = rect.style.fill;
+      return rect.style.fill = 'red';
+    });
     draw.previous_fill = draw.style.fill;
-    return draw.style.fill = 'red';
+    draw.style.fill = 'red';
+    this.current_animation = draw.animate([
+      {
+        opacity: 0
+      },
+      {
+        opacity: 1
+      }
+    ], {
+      duration: 500,
+      iterations: 2e308
+    });
+    return console.log(draw);
   }
 
+  
   // Return all classrooms id and names.
 
   // @return {array} An array of objects.
@@ -124,18 +147,32 @@ export var Buildings = class Buildings extends Map {
 
   // Hide all buildings
   reset_all() {
-    var lst;
+    var layer, lst;
     lst = this.maindiv.querySelectorAll('g');
-    return lst.forEach(function(elt) {
+    lst.forEach(function(elt) {
       // if elt.attributes['inkscape:label'] 
       return elt.style.display = 'none';
     });
+    layer = this.maindiv.querySelector('g#layer1');
+    return layer.style.display = '';
   }
 
-  show_building(name) {
-    var building;
+  show_building(name, scale = {
+      x: 1.0,
+      y: 1.0
+    }) {
+    var bbox, building, children, tx, ty;
     building = this.maindiv.querySelector('#' + name);
-    return building.style.display = '';
+    building.style.display = '';
+    children = building.querySelectorAll('g');
+    children.forEach(function(elt) {
+      return elt.style.display = '';
+    });
+    bbox = building.getBBox();
+    tx = -bbox.x * scale.x;
+    ty = -bbox.y * scale.y;
+    building.setAttribute('transform', 'scale(' + scale.x + ',' + scale.y + '),' + 'translate(' + tx + ', ' + ty + ')');
+    return building;
   }
 
 };

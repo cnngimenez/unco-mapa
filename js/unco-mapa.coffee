@@ -30,6 +30,10 @@ class Map
                 load_callback() if load_callback?
 
     reset_all: () ->
+        if @current_animation?
+            try
+                @current_animation.cancel()
+            catch 
         lst = @maindiv.querySelectorAll 'rect'
         lst.forEach (elt) ->
             if elt.style.fill is "red"
@@ -38,6 +42,7 @@ class Map
         lst.forEach (elt) ->
             if elt.style.fill is "red"
                 elt.style.fill = elt.previous_fill
+
 
     # Highlight the classroom name
     #
@@ -48,13 +53,23 @@ class Map
             return
         this.reset_all()
 
-        rect = draw.querySelector 'rect'
-        rect.previous_fill = rect.style.fill
-        rect.style.fill = 'red'
-
+        lst_rect = Array.from draw.querySelectorAll 'rect'
+        lst_rect = lst_rect.concat Array.from draw.querySelectorAll 'path'
+        lst_rect.forEach (rect) ->
+            rect.previous_fill = rect.style.fill
+            rect.style.fill = 'red'
+ 
         draw.previous_fill = draw.style.fill
         draw.style.fill = 'red'
 
+        @current_animation = draw.animate [
+            {opacity: 0}
+            {opacity: 1}
+            ],
+            duration: 500
+            iterations: Infinity
+        console.log draw
+        
     # Return all classrooms id and names.
     # 
     # @return {array} An array of objects.
@@ -96,8 +111,20 @@ export class Buildings extends Map
         lst.forEach (elt) ->
             # if elt.attributes['inkscape:label'] 
             elt.style.display = 'none'
+        layer = @maindiv.querySelector 'g#layer1'
+        layer.style.display = ''
 
-    show_building: (name) ->
+    show_building: (name, scale={x: 1.0, y: 1.0}) ->
         building = @maindiv.querySelector '#' + name
         building.style.display = ''
+        children = building.querySelectorAll 'g'
+        children.forEach (elt) ->
+            elt.style.display = ''
+        bbox = building.getBBox()
+        tx = -bbox.x * scale.x
+        ty = -bbox.y * scale.y
+        building.setAttribute 'transform',
+            'scale(' + scale.x + ',' + scale.y + '),' + 
+            'translate(' + tx + ', ' + ty + ')'
+        building
 
