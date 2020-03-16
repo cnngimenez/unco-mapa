@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28637825"
-     inkscape:cx="1216.2227"
-     inkscape:cy="1683.9898"
+     inkscape:zoom="0.14318912"
+     inkscape:cx="587.67887"
+     inkscape:cy="-710.4676"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,389 +84,6 @@
      id="layer1"
      transform="translate(56.557331,-79.72718)"
      inkscape:groupmode="layer">
-    <image
-       sodipodi:absref="/home/poo/Documents/repos/unco-mapa/imgs/../imgs/mapa_aulas.png"
-       xlink:href="../imgs/mapa_aulas.png"
-       style="display:inline;fill:#000000;fill-opacity:0"
-       width="599.948"
-       height="269.74802"
-       preserveAspectRatio="none"
-       id="image877"
-       x="-56.557331"
-       y="79.72718" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="aulas_hum"
-       width="63.944229"
-       height="33.609158"
-       x="337.73431"
-       y="202.96957"
-       inkscape:label="Aulas de la Facultad de Humanidades">
-      <desc
-         id="desc1376">Aulas Facultad de Humanidades</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="faea_aulas"
-       width="123.79324"
-       height="28.118027"
-       x="209.49332"
-       y="128.46986"
-       inkscape:label="Aulas FaEA">
-      <desc
-         id="desc1465">Aulas Facultad de Economía y Administración</desc>
-    </rect>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000011;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 454.5555,199.57894 36.61751,0.13429 0.26885,-7.88379 42.44951,-0.001 v 57.92484 l -42.18439,0.48729 -0.21495,-7.27973 -37.07016,0.29969 z"
-       id="biblio"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:label="Biblioteca (Planta Baja)">
-      <desc
-         id="desc1152">Biblioteca planta baja.</desc>
-    </path>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="aula41"
-       width="18.757084"
-       height="14.126856"
-       x="209.49332"
-       y="128.46986"
-       inkscape:label="Aula 41-FaEA">
-      <desc
-         id="desc944">Aula 41</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="aula40"
-       width="18.757084"
-       height="14.126856"
-       x="209.49332"
-       y="142.59673"
-       inkscape:label="Aula 40-FaEA">
-      <desc
-         id="desc944-2">Aula 40</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="aula46"
-       width="15.024557"
-       height="9.6383896"
-       x="228.39211"
-       y="147.17969"
-       inkscape:label="Aula 46-FaEA">
-      <desc
-         id="desc976">Aula 46</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="aula42"
-       width="29.340395"
-       height="14.174112"
-       x="236.99106"
-       y="128.51711"
-       inkscape:label="Aula 42-FaEA">
-      <desc
-         id="desc980">Aula 42</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.49089015;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="aula43"
-       width="28.262823"
-       height="14.183222"
-       x="266.3269"
-       y="128.51254"
-       inkscape:label="Aula 43-FaEA">
-      <desc
-         id="desc980-1">Aula 43</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="aula45"
-       width="23.765251"
-       height="14.410342"
-       x="309.51526"
-       y="128.46986"
-       inkscape:label="Aula 45-FaEA">
-      <desc
-         id="desc1021">Aula 45</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.48788962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="aula44"
-       width="23.777363"
-       height="13.713747"
-       x="309.50919"
-       y="142.87415"
-       inkscape:label="Aula 44-FaEA">
-      <desc
-         id="desc1021-7">Aula 44</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="fahu_aula7"
-       width="17.372513"
-       height="13.497115"
-       x="337.62823"
-       y="202.98793"
-       inkscape:label="Aula 7 en FaHu">
-      <desc
-         id="desc1276">Aula 7 en Fahu</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.47906455;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="fahu_aula6"
-       width="15.923466"
-       height="13.51805"
-       x="354.99026"
-       y="202.97746"
-       inkscape:label="Aula 6 en FaHu">
-      <desc
-         id="desc1276-3">Aula 6</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.47711396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="fahu_aula5"
-       width="15.791781"
-       height="13.520001"
-       x="370.90228"
-       y="202.98695"
-       inkscape:label="Aula 5 en FaHu">
-      <desc
-         id="desc1276-1">Aula 5</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.46523225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="fahu_aula4"
-       width="15.001855"
-       height="13.531883"
-       x="386.67667"
-       y="202.96957"
-       inkscape:label="Aula 4 en FaHu">
-      <desc
-         id="desc1276-6">Aula 4</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.44472629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="fahu_aula1b"
-       width="17.372513"
-       height="10.677917"
-       x="337.69507"
-       y="225.6519"
-       inkscape:label="Aula 1 en FaHu">
-      <desc
-         id="desc1276-2">Aula 1</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.42870271;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="fahu_aula2"
-       width="16.119005"
-       height="10.69394"
-       x="355.05954"
-       y="225.64389"
-       inkscape:label="Aula 2 en FaHu">
-      <desc
-         id="desc1276-2-6">Aula 2</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.41913238;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="fahu_aula3"
-       width="15.393585"
-       height="10.70351"
-       x="371.16577"
-       y="225.64711"
-       inkscape:label="Aula 3 en FaHu">
-      <desc
-         id="desc1276-2-5">Aula 3</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="comedor"
-       width="51.449383"
-       height="17.639797"
-       x="76.973618"
-       y="95.211502"
-       inkscape:label="Comedor Universitario">
-      <desc
-         id="desc1356">Comedor Universitario</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.6180805;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="salon_azul"
-       width="14.070807"
-       height="58.107597"
-       x="602.74719"
-       y="194.00572"
-       inkscape:label="Salón Azul">
-      <desc
-         id="desc1154">Salón azúl</desc>
-    </rect>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="541.92645"
-       y="221.05609"
-       id="text1398"><tspan
-         sodipodi:role="line"
-         id="tspan1396"
-         x="541.92645"
-         y="221.05609"
-         style="stroke-width:0.26458332">Consejo</tspan><tspan
-         sodipodi:role="line"
-         x="541.92645"
-         y="225.90678"
-         style="stroke-width:0.26458332"
-         id="tspan1455">Superior</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="604.08655"
-       y="220.48276"
-       id="text1402"><tspan
-         sodipodi:role="line"
-         id="tspan1400"
-         x="604.08655"
-         y="220.48276"
-         style="stroke-width:0.26458332">Salón</tspan><tspan
-         sodipodi:role="line"
-         x="604.08655"
-         y="225.33345"
-         style="stroke-width:0.26458332"
-         id="tspan1404">Azúl</tspan></text>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="biblio_posgrado"
-       width="11.720915"
-       height="11.430117"
-       x="591.24744"
-       y="194.1895"
-       inkscape:label="Biblioteca de Posgrado">
-      <desc
-         id="desc1162">Biblioteca de Posgrado.</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="biblio_aulainfo_b"
-       width="16.878962"
-       height="11.469261"
-       x="574.36847"
-       y="194.18948"
-       inkscape:label="Aula Informática-Biblioteca">
-      <desc
-         id="desc1156">Aula Informática de Biblioteca (primer piso).</desc>
-    </rect>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22636773"
-       x="570.01001"
-       y="-82.35347"
-       id="text1425"
-       transform="matrix(0.93423957,0.4599969,-0.53136793,0.80875658,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan1423"
-         x="570.01001"
-         y="-82.35347"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22636773">Aula</tspan><tspan
-         sodipodi:role="line"
-         x="570.01001"
-         y="-79.335236"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22636773"
-         id="tspan1459">Informática</tspan></text>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="consejo_superior"
-       width="29.84947"
-       height="43.570885"
-       x="537.48212"
-       y="201.93898"
-       inkscape:label="Consejo Superior">
-      <desc
-         id="desc1158">Consejo Superior</desc>
-    </rect>
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 537.48212,201.93898 36.61752,0.13429 0.26884,-7.88379 42.44952,-0.001 v 57.92484 l -42.1844,0.48729 -0.21495,-7.27973 -37.07016,0.29969 z"
-       id="biblio_1piso"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:label="Biblioteca (Primer Piso)">
-      <desc
-         id="desc1150">Biblioteca primer piso</desc>
-    </path>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="570.17706"
-       y="259.10788"
-       id="text1435"><tspan
-         sodipodi:role="line"
-         id="tspan1433"
-         x="570.17706"
-         y="259.10788"
-         style="stroke-width:0.26458332">Biblioteca</tspan><tspan
-         sodipodi:role="line"
-         x="570.17706"
-         y="263.95859"
-         style="stroke-width:0.26458332"
-         id="tspan1437">1° Piso</tspan></text>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="hemeroteca"
-       width="27.950577"
-       height="9.910738"
-       x="574.79663"
-       y="242.20258"
-       inkscape:label="Hemeroteca">
-      <desc
-         id="desc1160">Hemeroteca</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="fain"
-       width="37.419643"
-       height="79.752975"
-       x="134.13165"
-       y="189.02431"
-       inkscape:label="Facultad de Ingeniería">
-      <desc
-         id="desc1171">Facultad de Ingeniería</desc>
-      <title
-         id="title1169">Facultad de Ingeniería</title>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.49089015;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="bar_faea"
-       width="9.5530043"
-       height="9.2695312"
-       x="277.23834"
-       y="147.15887"
-       inkscape:label="Bar-FaEA">
-      <desc
-         id="desc980-1-6">Bar en aulas de FaEA.</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="fotocopias_faea"
-       width="14.2686"
-       height="9.4494047"
-       x="252.15474"
-       y="147.16344"
-       inkscape:label="Fotocopiadora-FaEA">
-      <desc
-         id="desc1195">Fotocopiadora en Aulas FaEA.</desc>
-    </rect>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="cefea"
-       width="14.74372"
-       height="8.9606895"
-       x="294.77155"
-       y="128.46986"
-       inkscape:label="Centro de Estudiantes de la FaEA">
-      <desc
-         id="desc1199">Centro de Estudiantes de la Facultad de Economía y Administración.</desc>
-    </rect>
     <g
        id="grp_central"
        inkscape:label="Gpr. Central"
@@ -580,118 +197,505 @@
            id="tspan5651"
            sodipodi:role="line">Ingreso</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="342.77451"
-       y="206.22221"
-       id="text5800"><tspan
-         sodipodi:role="line"
-         id="tspan5798"
-         x="342.77451"
-         y="206.22221"
-         style="stroke-width:0.26458332">Aula</tspan><tspan
-         sodipodi:role="line"
-         x="342.77451"
-         y="211.07291"
-         style="stroke-width:0.26458332"
-         id="tspan5802">7</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="358.46051"
-       y="206.03323"
-       id="text5806"><tspan
-         sodipodi:role="line"
-         id="tspan5804"
-         x="358.46051"
-         y="206.03323"
-         style="stroke-width:0.26458332">Aula</tspan><tspan
-         sodipodi:role="line"
-         x="358.46051"
-         y="210.88393"
-         style="stroke-width:0.26458332"
-         id="tspan5808">6</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="370.90228"
-       y="202.98695"
-       id="text5812"><tspan
-         sodipodi:role="line"
-         id="tspan5810"
-         x="370.90228"
+    <g
+       id="g7127"
+       style="display:inline">
+      <image
+         sodipodi:absref="/home/poo/Documents/repos/unco-mapa/imgs/../imgs/mapa_aulas.png"
+         xlink:href="../imgs/mapa_aulas.png"
+         y="79.72718"
+         x="-56.557331"
+         id="image877"
+         preserveAspectRatio="none"
+         height="269.74802"
+         width="599.948"
+         style="display:inline;fill:#000000;fill-opacity:0" />
+      <rect
+         inkscape:label="Aulas de la Facultad de Humanidades"
+         y="202.96957"
+         x="337.73431"
+         height="33.609158"
+         width="63.944229"
+         id="aulas_hum"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1376">Aulas Facultad de Humanidades</desc>
+      </rect>
+      <rect
+         inkscape:label="Aulas FaEA"
+         y="128.46986"
+         x="209.49332"
+         height="28.118027"
+         width="123.79324"
+         id="faea_aulas"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1465">Aulas Facultad de Economía y Administración</desc>
+      </rect>
+      <path
+         inkscape:label="Biblioteca (Planta Baja)"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="biblio"
+         d="m 454.5555,199.57894 36.61751,0.13429 0.26885,-7.88379 42.44951,-0.001 v 57.92484 l -42.18439,0.48729 -0.21495,-7.27973 -37.07016,0.29969 z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000011;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1152">Biblioteca planta baja.</desc>
+      </path>
+      <rect
+         inkscape:label="Aula 41-FaEA"
+         y="128.46986"
+         x="209.49332"
+         height="14.126856"
+         width="18.757084"
+         id="aula41"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc944">Aula 41</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 40-FaEA"
+         y="142.59673"
+         x="209.49332"
+         height="14.126856"
+         width="18.757084"
+         id="aula40"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc944-2">Aula 40</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 46-FaEA"
+         y="147.17969"
+         x="228.39211"
+         height="9.6383896"
+         width="15.024557"
+         id="aula46"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc976">Aula 46</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 42-FaEA"
+         y="128.51711"
+         x="236.99106"
+         height="14.174112"
+         width="29.340395"
+         id="aula42"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc980">Aula 42</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 43-FaEA"
+         y="128.51254"
+         x="266.3269"
+         height="14.183222"
+         width="28.262823"
+         id="aula43"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.49089015;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc980-1">Aula 43</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 45-FaEA"
+         y="128.46986"
+         x="309.51526"
+         height="14.410342"
+         width="23.765251"
+         id="aula45"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1021">Aula 45</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 44-FaEA"
+         y="142.87415"
+         x="309.50919"
+         height="13.713747"
+         width="23.777363"
+         id="aula44"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.48788962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1021-7">Aula 44</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 7 en FaHu"
+         y="202.98793"
+         x="337.62823"
+         height="13.497115"
+         width="17.372513"
+         id="fahu_aula7"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1276">Aula 7 en Fahu</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 6 en FaHu"
+         y="202.97746"
+         x="354.99026"
+         height="13.51805"
+         width="15.923466"
+         id="fahu_aula6"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.47906455;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1276-3">Aula 6</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 5 en FaHu"
          y="202.98695"
-         style="stroke-width:0.26458332">Aula</tspan><tspan
-         sodipodi:role="line"
          x="370.90228"
-         y="207.83765"
-         style="stroke-width:0.26458332"
-         id="tspan5814">5</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="390.96649"
-       y="208.86806"
-       id="text5818"><tspan
-         sodipodi:role="line"
-         id="tspan5816"
-         x="390.96649"
+         height="13.520001"
+         width="15.791781"
+         id="fahu_aula5"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.47711396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1276-1">Aula 5</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 4 en FaHu"
+         y="202.96957"
+         x="386.67667"
+         height="13.531883"
+         width="15.001855"
+         id="fahu_aula4"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.46523225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1276-6">Aula 4</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 1 en FaHu"
+         y="225.6519"
+         x="337.69507"
+         height="10.677917"
+         width="17.372513"
+         id="fahu_aula1b"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.44472629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1276-2">Aula 1</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 2 en FaHu"
+         y="225.64389"
+         x="355.05954"
+         height="10.69394"
+         width="16.119005"
+         id="fahu_aula2"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.42870271;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1276-2-6">Aula 2</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula 3 en FaHu"
+         y="225.64711"
+         x="371.16577"
+         height="10.70351"
+         width="15.393585"
+         id="fahu_aula3"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.41913238;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1276-2-5">Aula 3</desc>
+      </rect>
+      <rect
+         inkscape:label="Comedor Universitario"
+         y="95.211502"
+         x="76.973618"
+         height="17.639797"
+         width="51.449383"
+         id="comedor"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1356">Comedor Universitario</desc>
+      </rect>
+      <rect
+         inkscape:label="Salón Azul"
+         y="194.00572"
+         x="602.74719"
+         height="58.107597"
+         width="14.070807"
+         id="salon_azul"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.6180805;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1154">Salón azúl</desc>
+      </rect>
+      <text
+         id="text1398"
+         y="221.05609"
+         x="541.92645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="221.05609"
+           x="541.92645"
+           id="tspan1396"
+           sodipodi:role="line">Consejo</tspan><tspan
+           id="tspan1455"
+           style="stroke-width:0.26458332"
+           y="225.90678"
+           x="541.92645"
+           sodipodi:role="line">Superior</tspan></text>
+      <text
+         id="text1402"
+         y="220.48276"
+         x="604.08655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="220.48276"
+           x="604.08655"
+           id="tspan1400"
+           sodipodi:role="line">Salón</tspan><tspan
+           id="tspan1404"
+           style="stroke-width:0.26458332"
+           y="225.33345"
+           x="604.08655"
+           sodipodi:role="line">Azúl</tspan></text>
+      <rect
+         inkscape:label="Biblioteca de Posgrado"
+         y="194.1895"
+         x="591.24744"
+         height="11.430117"
+         width="11.720915"
+         id="biblio_posgrado"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1162">Biblioteca de Posgrado.</desc>
+      </rect>
+      <rect
+         inkscape:label="Aula Informática-Biblioteca"
+         y="194.18948"
+         x="574.36847"
+         height="11.469261"
+         width="16.878962"
+         id="biblio_aulainfo_b"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1156">Aula Informática de Biblioteca (primer piso).</desc>
+      </rect>
+      <text
+         transform="matrix(0.93423957,0.4599969,-0.53136793,0.80875658,0,0)"
+         id="text1425"
+         y="-82.35347"
+         x="570.01001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22636773"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22636773"
+           y="-82.35347"
+           x="570.01001"
+           id="tspan1423"
+           sodipodi:role="line">Aula</tspan><tspan
+           id="tspan1459"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41458941px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.22636773"
+           y="-79.335236"
+           x="570.01001"
+           sodipodi:role="line">Informática</tspan></text>
+      <rect
+         inkscape:label="Consejo Superior"
+         y="201.93898"
+         x="537.48212"
+         height="43.570885"
+         width="29.84947"
+         id="consejo_superior"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1158">Consejo Superior</desc>
+      </rect>
+      <path
+         inkscape:label="Biblioteca (Primer Piso)"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="biblio_1piso"
+         d="m 537.48212,201.93898 36.61752,0.13429 0.26884,-7.88379 42.44952,-0.001 v 57.92484 l -42.1844,0.48729 -0.21495,-7.27973 -37.07016,0.29969 z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1150">Biblioteca primer piso</desc>
+      </path>
+      <text
+         id="text1435"
+         y="259.10788"
+         x="570.17706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="259.10788"
+           x="570.17706"
+           id="tspan1433"
+           sodipodi:role="line">Biblioteca</tspan><tspan
+           id="tspan1437"
+           style="stroke-width:0.26458332"
+           y="263.95859"
+           x="570.17706"
+           sodipodi:role="line">1° Piso</tspan></text>
+      <rect
+         inkscape:label="Hemeroteca"
+         y="242.20258"
+         x="574.79663"
+         height="9.910738"
+         width="27.950577"
+         id="hemeroteca"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1160">Hemeroteca</desc>
+      </rect>
+      <rect
+         inkscape:label="Facultad de Ingeniería"
+         y="189.02431"
+         x="134.13165"
+         height="79.752975"
+         width="37.419643"
+         id="fain"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1171">Facultad de Ingeniería</desc>
+        <title
+           id="title1169">Facultad de Ingeniería</title>
+      </rect>
+      <rect
+         inkscape:label="Bar-FaEA"
+         y="147.15887"
+         x="277.23834"
+         height="9.2695312"
+         width="9.5530043"
+         id="bar_faea"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.49089015;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc980-1-6">Bar en aulas de FaEA.</desc>
+      </rect>
+      <rect
+         inkscape:label="Fotocopiadora-FaEA"
+         y="147.16344"
+         x="252.15474"
+         height="9.4494047"
+         width="14.2686"
+         id="fotocopias_faea"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1195">Fotocopiadora en Aulas FaEA.</desc>
+      </rect>
+      <rect
+         inkscape:label="Centro de Estudiantes de la FaEA"
+         y="128.46986"
+         x="294.77155"
+         height="8.9606895"
+         width="14.74372"
+         id="cefea"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#0053d0;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke">
+        <desc
+           id="desc1199">Centro de Estudiantes de la Facultad de Economía y Administración.</desc>
+      </rect>
+      <text
+         id="text5800"
+         y="206.22221"
+         x="342.77451"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="206.22221"
+           x="342.77451"
+           id="tspan5798"
+           sodipodi:role="line">Aula</tspan><tspan
+           id="tspan5802"
+           style="stroke-width:0.26458332"
+           y="211.07291"
+           x="342.77451"
+           sodipodi:role="line">7</tspan></text>
+      <text
+         id="text5806"
+         y="206.03323"
+         x="358.46051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="206.03323"
+           x="358.46051"
+           id="tspan5804"
+           sodipodi:role="line">Aula</tspan><tspan
+           id="tspan5808"
+           style="stroke-width:0.26458332"
+           y="210.88393"
+           x="358.46051"
+           sodipodi:role="line">6</tspan></text>
+      <text
+         id="text5812"
+         y="202.98695"
+         x="370.90228"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="202.98695"
+           x="370.90228"
+           id="tspan5810"
+           sodipodi:role="line">Aula</tspan><tspan
+           id="tspan5814"
+           style="stroke-width:0.26458332"
+           y="207.83765"
+           x="370.90228"
+           sodipodi:role="line">5</tspan></text>
+      <text
+         id="text5818"
          y="208.86806"
-         style="stroke-width:0.26458332">Aula</tspan><tspan
-         sodipodi:role="line"
          x="390.96649"
-         y="213.71875"
-         style="stroke-width:0.26458332"
-         id="tspan5820">4</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="377.92633"
-       y="228.14484"
-       id="text5824"><tspan
-         sodipodi:role="line"
-         id="tspan5822"
-         x="377.92633"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="208.86806"
+           x="390.96649"
+           id="tspan5816"
+           sodipodi:role="line">Aula</tspan><tspan
+           id="tspan5820"
+           style="stroke-width:0.26458332"
+           y="213.71875"
+           x="390.96649"
+           sodipodi:role="line">4</tspan></text>
+      <text
+         id="text5824"
          y="228.14484"
-         style="stroke-width:0.26458332">Aula</tspan><tspan
-         sodipodi:role="line"
          x="377.92633"
-         y="232.99553"
-         style="stroke-width:0.26458332"
-         id="tspan5826">3</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="360.16141"
-       y="227.19989"
-       id="text5830"><tspan
-         sodipodi:role="line"
-         id="tspan5828"
-         x="360.16141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="228.14484"
+           x="377.92633"
+           id="tspan5822"
+           sodipodi:role="line">Aula</tspan><tspan
+           id="tspan5826"
+           style="stroke-width:0.26458332"
+           y="232.99553"
+           x="377.92633"
+           sodipodi:role="line">3</tspan></text>
+      <text
+         id="text5830"
          y="227.19989"
-         style="stroke-width:0.26458332">Aula</tspan><tspan
-         sodipodi:role="line"
          x="360.16141"
-         y="232.05058"
-         style="stroke-width:0.26458332"
-         id="tspan5832">2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="345.79834"
-       y="228.33382"
-       id="text5836"><tspan
-         sodipodi:role="line"
-         id="tspan5834"
-         x="345.79834"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="227.19989"
+           x="360.16141"
+           id="tspan5828"
+           sodipodi:role="line">Aula</tspan><tspan
+           id="tspan5832"
+           style="stroke-width:0.26458332"
+           y="232.05058"
+           x="360.16141"
+           sodipodi:role="line">2</tspan></text>
+      <text
+         id="text5836"
          y="228.33382"
-         style="stroke-width:0.26458332">Aula</tspan><tspan
-         sodipodi:role="line"
          x="345.79834"
-         y="233.18451"
-         style="stroke-width:0.26458332"
-         id="tspan5838">1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="228.33382"
+           x="345.79834"
+           id="tspan5834"
+           sodipodi:role="line">Aula</tspan><tspan
+           id="tspan5838"
+           style="stroke-width:0.26458332"
+           y="233.18451"
+           x="345.79834"
+           sodipodi:role="line">1</tspan></text>
+    </g>
     <g
        id="g6131"
        inkscape:label="Grp. Aulas Central"
@@ -1101,7 +1105,7 @@
       </g>
     </g>
     <g
-       id="g6650"
+       id="grp_faea"
        inkscape:label="Grp. FaEA"
        style="display:inline">
       <g
