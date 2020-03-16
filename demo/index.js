@@ -13,6 +13,7 @@ assign_events = function() {
     var name, sel;
     sel = document.querySelector('select.building');
     name = sel.value;
+    console.log(name);
     overview_map.highlight(name);
     return building_map.show_building(name, {
       x: 0.5,
@@ -21,6 +22,8 @@ assign_events = function() {
   });
 };
 
+// Create all the option tags with id and names from the
+// overview SVG map.
 fill_overview_select = function() {
   var lst_ids, select;
   lst_ids = overview_map.get_buildings();
@@ -36,6 +39,7 @@ fill_overview_select = function() {
   });
 };
 
+// What to do when the overview map has been loaded?
 load_overview_complete = function() {
   var height, svg, width;
   fill_overview_select();
@@ -46,16 +50,17 @@ load_overview_complete = function() {
   return svg.setAttribute('height', height / 4);
 };
 
+// What to do when the buildings map has been loaded?
 load_buildings_complete = function() {
-  var height, svg, width;
+  var svg;
   // fill_building_select()
-  svg = document.querySelector('.building-map svg');
-  width = svg.getAttribute('width');
-  height = svg.getAttribute('height');
-  svg.setAttribute('width', width / 2);
-  return svg.setAttribute('height', height / 2);
+  return svg = document.querySelector('.building-map svg');
 };
 
+// width = svg.getAttribute 'width'
+// height = svg.getAttribute 'height'
+// svg.setAttribute 'width', width/2
+// svg.setAttribute 'height', height/2
 console.log('loading map...');
 
 export var overview_map = new Overview(document.querySelector('.overview-map'), load_overview_complete);
