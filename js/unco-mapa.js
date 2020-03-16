@@ -16,69 +16,126 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // The classrooms map.
-export var Map = (function() {
-  var MAP_URL;
+var Map;
 
-  class Map {
-    // @param maindiv {object} The HTML SVG object.
-    constructor(maindiv, load_callback = null) {
-      this.maindiv = maindiv;
-      this.load_map(load_callback);
-    }
+Map = class Map {
+  // @param maindiv {object} The HTML SVG object.
+  constructor(maindiv1, load_callback = null) {
+    this.maindiv = maindiv1;
+    this.load_map(load_callback);
+  }
 
-    // Load the map from the SVG URL.
-    load_map(load_callback = null) {
-      return fetch(MAP_URL).then((result) => {
-        return result.text().then((text) => {
-          this.maindiv.innerHTML = text;
-          if (load_callback != null) {
-            return load_callback();
-          }
-        });
+  // Load the map from the SVG URL.
+  load_map(load_callback = null) {
+    return fetch(this.map_url()).then((result) => {
+      return result.text().then((text) => {
+        this.maindiv.innerHTML = text;
+        if (load_callback != null) {
+          return load_callback();
+        }
       });
+    });
+  }
+
+  reset_all() {
+    var lst;
+    lst = this.maindiv.querySelectorAll('rect');
+    lst.forEach(function(elt) {
+      if (elt.style.fill === "red") {
+        return elt.style.fill = elt.previous_fill;
+      }
+    });
+    lst = this.maindiv.querySelectorAll('path');
+    return lst.forEach(function(elt) {
+      if (elt.style.fill === "red") {
+        return elt.style.fill = elt.previous_fill;
+      }
+    });
+  }
+
+  // Highlight the classroom name
+
+  // @param classroom {string} The classroom ID.
+  highlight(classroom) {
+    var draw, rect;
+    draw = this.maindiv.querySelector("#" + classroom);
+    if (draw.style.fill === 'red') {
+      return;
     }
+    this.reset_all();
+    rect = draw.querySelector('rect');
+    rect.previous_fill = rect.style.fill;
+    rect.style.fill = 'red';
+    draw.previous_fill = draw.style.fill;
+    return draw.style.fill = 'red';
+  }
 
-    reset_all() {
-      var lst;
-      lst = this.maindiv.querySelectorAll('rect');
-      lst.forEach(function(elt) {
-        return elt.style.fill = 'none';
-      });
-      lst = this.maindiv.querySelectorAll('path');
-      return lst.forEach(function(elt) {
-        return elt.style.fill = 'none';
-      });
-    }
+  // Return all classrooms id and names.
 
-    // Highlight the classroom name
+  // @return {array} An array of objects.
+  get_classrooms() {
+    var lst;
+    lst = Array.from(this.maindiv.querySelectorAll('rect'));
+    lst = lst.concat(Array.from(this.maindiv.querySelectorAll('path')));
+    return lst.map(function(elt) {
+      return {
+        id: elt.getAttribute('id'),
+        name: elt.getAttribute('inkscape:label')
+      };
+    });
+  }
 
-    // @param classroom {string} The classroom ID.
-    highlight(classroom) {
-      var draw;
+};
+
+// The Overview Map
+export var Overview = class Overview extends Map {
+  map_url() {
+    return '../imgs/overview.svg';
+  }
+
+  get_buildings() {
+    var lst;
+    lst = Array.from(this.maindiv.querySelectorAll('g'));
+    lst = lst.filter(function(elt) {
+      return elt.getAttribute('inkscape:label') !== null;
+    });
+    return lst.map(function(elt) {
+      return {
+        id: elt.getAttribute('id'),
+        name: elt.getAttribute('inkscape:label')
+      };
+    });
+  }
+
+};
+
+// Buildings
+export var Buildings = class Buildings extends Map {
+  map_url() {
+    return '../imgs/buildings.svg';
+  }
+
+  constructor(maindiv, load_callback = null) {
+    super(maindiv, () => {
       this.reset_all();
-      draw = this.maindiv.querySelector("#" + classroom);
-      return draw.style.fill = 'red';
-    }
+      return load_callback();
+    });
+  }
 
-    // Return all classrooms id and names.
+  // Hide all buildings
+  reset_all() {
+    var lst;
+    lst = this.maindiv.querySelectorAll('g');
+    return lst.forEach(function(elt) {
+      // if elt.attributes['inkscape:label'] 
+      return elt.style.display = 'none';
+    });
+  }
 
-    // @return {array} An array of objects.
-    get_classrooms() {
-      var lst;
-      lst = Array.from(this.maindiv.querySelectorAll('rect'));
-      lst = lst.concat(Array.from(this.maindiv.querySelectorAll('path')));
-      return lst.map(function(elt) {
-        return {
-          id: elt.getAttribute('id'),
-          name: elt.getAttribute('inkscape:label')
-        };
-      });
-    }
+  show_building(name) {
+    var building;
+    building = this.maindiv.querySelector('#' + name);
+    return building.style.display = '';
+  }
 
-  };
-
-  MAP_URL = '../imgs/aulario.svg';
-
-  return Map;
-
-}).call(this);
+};

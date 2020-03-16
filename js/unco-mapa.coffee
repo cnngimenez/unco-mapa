@@ -16,9 +16,7 @@
 
 
 # The classrooms map.
-export class Map
-
-    MAP_URL = '../imgs/aulario.svg'
+class Map
 
     # @param maindiv {object} The HTML SVG object.
     constructor: (@maindiv, load_callback=null) ->
@@ -26,7 +24,7 @@ export class Map
 
     # Load the map from the SVG URL.
     load_map: (load_callback=null) ->
-        fetch(MAP_URL).then (result) =>
+        fetch(this.map_url()).then (result) =>
             result.text().then (text) =>
                 @maindiv.innerHTML = text
                 load_callback() if load_callback?
@@ -34,17 +32,27 @@ export class Map
     reset_all: () ->
         lst = @maindiv.querySelectorAll 'rect'
         lst.forEach (elt) ->
-            elt.style.fill = 'none'
+            if elt.style.fill is "red"
+                elt.style.fill = elt.previous_fill
         lst = @maindiv.querySelectorAll 'path'
         lst.forEach (elt) ->
-            elt.style.fill = 'none'
+            if elt.style.fill is "red"
+                elt.style.fill = elt.previous_fill
 
     # Highlight the classroom name
     #
     # @param classroom {string} The classroom ID.
     highlight: (classroom) ->
-        this.reset_all()
         draw = @maindiv.querySelector "#" + classroom
+        if draw.style.fill is 'red'
+            return
+        this.reset_all()
+
+        rect = draw.querySelector 'rect'
+        rect.previous_fill = rect.style.fill
+        rect.style.fill = 'red'
+
+        draw.previous_fill = draw.style.fill
         draw.style.fill = 'red'
 
     # Return all classrooms id and names.
@@ -56,3 +64,40 @@ export class Map
         lst.map (elt) ->
             id: elt.getAttribute 'id'
             name: elt.getAttribute 'inkscape:label'
+
+
+# The Overview Map
+export class Overview extends Map
+    map_url: () ->
+        '../imgs/overview.svg'
+
+    get_buildings: () ->
+        lst = Array.from @maindiv.querySelectorAll 'g'
+        lst = lst.filter (elt) ->
+            elt.getAttribute('inkscape:label') != null
+        lst.map (elt) ->
+            id: elt.getAttribute 'id'
+            name: elt.getAttribute 'inkscape:label'
+
+# Buildings
+export class Buildings extends Map
+
+    map_url: () ->
+        '../imgs/buildings.svg'
+    
+    constructor: (maindiv, load_callback=null) ->
+        super maindiv, () =>
+            this.reset_all()            
+            load_callback()
+
+    # Hide all buildings
+    reset_all: () ->
+        lst = @maindiv.querySelectorAll 'g'
+        lst.forEach (elt) ->
+            # if elt.attributes['inkscape:label'] 
+            elt.style.display = 'none'
+
+    show_building: (name) ->
+        building = @maindiv.querySelector '#' + name
+        building.style.display = ''
+
