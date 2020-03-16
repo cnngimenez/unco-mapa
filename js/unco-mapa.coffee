@@ -20,13 +20,13 @@ class Map
 
     # @param maindiv {object} The HTML SVG object.
     constructor: (@maindiv, load_callback=null) ->
-        this.load_map load_callback
+        this.load_map @maindiv, load_callback
 
     # Load the map from the SVG URL.
-    load_map: (load_callback=null) ->
+    load_map: (maindiv, load_callback=null) ->
         fetch(this.map_url()).then (result) =>
             result.text().then (text) =>
-                @maindiv.innerHTML = text
+                maindiv.innerHTML = text
                 load_callback() if load_callback?
 
     reset_all: () ->
@@ -68,7 +68,7 @@ class Map
             ],
             duration: 500
             iterations: Infinity
-        console.log draw
+
         
     # Return all classrooms id and names.
     # 
@@ -101,30 +101,46 @@ export class Buildings extends Map
         '../imgs/buildings.svg'
     
     constructor: (maindiv, load_callback=null) ->
-        super maindiv, () =>
-            this.reset_all()            
+        alldiv = document.createElement 'div'
+        super alldiv, () =>
+            alldiv.style.display = 'none'
             load_callback()
+
+        @alldiv = alldiv
+        @maindiv = maindiv
+
+        @alldiv.setAttribute 'class', 'all-buildings'
+        @alldiv.style.display = 'none'
+        @maindiv.appendChild alldiv
+      
+        @graphdiv = document.createElementNS 'http://www.w3.org/2000/svg', 'svg'
+        @graphdiv.setAttribute 'class', 'building'
+        @graphdiv.setAttribute 'width', '500'
+        @graphdiv.setAttribute 'height', '500'
+        @graphdiv.setAttribute 'viewBox', '0 0 100 100'
+        @graphdiv.setAttribute 'xmlns:svg', 'http://www.w3.org/2000/svg'
+        @graphdiv.setAttribute 'xmlns', 'http://www.w3.org/2000/svg'
+        @maindiv.appendChild @graphdiv
+
 
     # Hide all buildings
     reset_all: () ->
-        lst = @maindiv.querySelectorAll 'g'
-        lst.forEach (elt) ->
-            # if elt.attributes['inkscape:label'] 
-            elt.style.display = 'none'
-        layer = @maindiv.querySelector 'g#layer1'
-        layer.style.display = ''
+        @graphdiv.innerHTML = ''
+        
+    show_building: (name) ->
+        this.reset_all()
+        orig_building = @alldiv.querySelector '#' + name
+        
+        building = orig_building.cloneNode true
+        @graphdiv.appendChild building.cloneNode true
+        building = @graphdiv.querySelector 'g'
 
-    show_building: (name, scale={x: 1.0, y: 1.0}) ->
-        building = @maindiv.querySelector '#' + name
-        building.style.display = ''
-        children = building.querySelectorAll 'g'
-        children.forEach (elt) ->
-            elt.style.display = ''
+        # center building
+
         bbox = building.getBBox()
-        tx = -bbox.x * scale.x
-        ty = -bbox.y * scale.y
-        building.setAttribute 'transform',
-            'scale(' + scale.x + ',' + scale.y + '),' + 
-            'translate(' + tx + ', ' + ty + ')'
-        building
+        @graphdiv.viewBox.baseVal.x = bbox.x 
+        @graphdiv.viewBox.baseVal.y = bbox.y
+        @graphdiv.viewBox.baseVal.width = bbox.width 
+        @graphdiv.viewBox.baseVal.height = bbox.height
+
 

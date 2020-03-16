@@ -22,14 +22,14 @@ Map = class Map {
   // @param maindiv {object} The HTML SVG object.
   constructor(maindiv1, load_callback = null) {
     this.maindiv = maindiv1;
-    this.load_map(load_callback);
+    this.load_map(this.maindiv, load_callback);
   }
 
   // Load the map from the SVG URL.
-  load_map(load_callback = null) {
+  load_map(maindiv, load_callback = null) {
     return fetch(this.map_url()).then((result) => {
       return result.text().then((text) => {
-        this.maindiv.innerHTML = text;
+        maindiv.innerHTML = text;
         if (load_callback != null) {
           return load_callback();
         }
@@ -78,7 +78,7 @@ Map = class Map {
     });
     draw.previous_fill = draw.style.fill;
     draw.style.fill = 'red';
-    this.current_animation = draw.animate([
+    return this.current_animation = draw.animate([
       {
         opacity: 0
       },
@@ -89,7 +89,6 @@ Map = class Map {
       duration: 500,
       iterations: 2e308
     });
-    return console.log(draw);
   }
 
   
@@ -139,40 +138,45 @@ export var Buildings = class Buildings extends Map {
   }
 
   constructor(maindiv, load_callback = null) {
-    super(maindiv, () => {
-      this.reset_all();
+    var alldiv;
+    alldiv = document.createElement('div');
+    super(alldiv, () => {
+      alldiv.style.display = 'none';
       return load_callback();
     });
+    this.alldiv = alldiv;
+    this.maindiv = maindiv;
+    this.alldiv.setAttribute('class', 'all-buildings');
+    this.alldiv.style.display = 'none';
+    this.maindiv.appendChild(alldiv);
+    this.graphdiv = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+    this.graphdiv.setAttribute('class', 'building');
+    this.graphdiv.setAttribute('width', '500');
+    this.graphdiv.setAttribute('height', '500');
+    this.graphdiv.setAttribute('viewBox', '0 0 100 100');
+    this.graphdiv.setAttribute('xmlns:svg', 'http://www.w3.org/2000/svg');
+    this.graphdiv.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
+    this.maindiv.appendChild(this.graphdiv);
   }
 
   // Hide all buildings
   reset_all() {
-    var layer, lst;
-    lst = this.maindiv.querySelectorAll('g');
-    lst.forEach(function(elt) {
-      // if elt.attributes['inkscape:label'] 
-      return elt.style.display = 'none';
-    });
-    layer = this.maindiv.querySelector('g#layer1');
-    return layer.style.display = '';
+    return this.graphdiv.innerHTML = '';
   }
 
-  show_building(name, scale = {
-      x: 1.0,
-      y: 1.0
-    }) {
-    var bbox, building, children, tx, ty;
-    building = this.maindiv.querySelector('#' + name);
-    building.style.display = '';
-    children = building.querySelectorAll('g');
-    children.forEach(function(elt) {
-      return elt.style.display = '';
-    });
+  show_building(name) {
+    var bbox, building, orig_building;
+    this.reset_all();
+    orig_building = this.alldiv.querySelector('#' + name);
+    building = orig_building.cloneNode(true);
+    this.graphdiv.appendChild(building.cloneNode(true));
+    building = this.graphdiv.querySelector('g');
+    // center building
     bbox = building.getBBox();
-    tx = -bbox.x * scale.x;
-    ty = -bbox.y * scale.y;
-    building.setAttribute('transform', 'scale(' + scale.x + ',' + scale.y + '),' + 'translate(' + tx + ', ' + ty + ')');
-    return building;
+    this.graphdiv.viewBox.baseVal.x = bbox.x;
+    this.graphdiv.viewBox.baseVal.y = bbox.y;
+    this.graphdiv.viewBox.baseVal.width = bbox.width;
+    return this.graphdiv.viewBox.baseVal.height = bbox.height;
   }
 
 };
